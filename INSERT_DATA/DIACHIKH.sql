@@ -1,0 +1,9004 @@
+﻿INSERT INTO DIACHIKH
+VALUES
+( 1, N'394 White Hague Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 2, N'63 New Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 3, N'20 Rocky Hague Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 4, N'682 White First Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 5, N'33 Rocky Cowley Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 6, N'571 East Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 7, N'48 Second Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 8, N'30 Old Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 9, N'664 Hague St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 10, N'80 White Fabien Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 11, N'839 Fabien Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 12, N'104 Rocky Old Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 13, N'48 Old Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 14, N'261 Old Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 15, N'78 Rocky Hague Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 16, N'724 South New Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 17, N'19 White New Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 18, N'998 North New Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 19, N'425 Cowley Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 20, N'102 Rocky Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 21, N'467 North Clarendon Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 22, N'92 Rocky Old St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 23, N'568 First Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 24, N'874 Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 25, N'76 Cowley Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 26, N'960 South Clarendon Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 27, N'22 South Second Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 28, N'25 First Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 29, N'395 North Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 30, N'18 West Old Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 31, N'662 South Fabien St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 32, N'178 First Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 33, N'78 Rocky Clarendon Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 34, N'56 Old Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 35, N'80 Nobel Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 36, N'96 Nobel Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 37, N'61 Rocky First Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 38, NULL, NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 39, N'579 Green Oak Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 40, N'882 South White New Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 41, N'89 First Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 42, N'39 South Hague St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 43, N'264 East Oak Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 44, N'95 West Green Milton Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 45, N'17 South Oak Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 46, N'91 West Rocky Milton Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 47, N'605 White New Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 48, N'375 New Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 49, N'29 North Green Oak Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 50, N'496 Fabien Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 51, N'135 Hague Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 52, N'44 Second Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 53, N'99 Milton Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 54, N'881 Milton Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 55, N'405 West Old Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 56, N'141 West Nobel Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 57, N'889 West Milton Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 58, N'66 North Hague Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 59, N'18 South Fabien Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 60, N'60 Rocky Nobel Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 61, N'736 White Nobel Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 62, N'42 South Clarendon Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 63, N'29 South Milton Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 64, N'87 Nobel St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 65, N'520 Old Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 66, N'71 North Oak Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 67, N'138 North White Milton Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 68, N'883 East Green Cowley Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 69, N'875 Clarendon Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 70, N'62 Cowley Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 71, N'77 South Green Oak Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 72, N'848 First Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 73, N'947 West Second Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 74, N'161 Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 75, N'52 West First Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 76, N'32 East White Second Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 77, N'619 Fabien St.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 78, N'496 Fabien Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 79, N'502 Cowley Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 80, N'681 New Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 81, N'96 Second Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 82, N'87 Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 83, N'51 East Green Nobel Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 84, N'610 Hague Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 85, N'54 South Second Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 86, N'910 East Green Milton Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 87, N'91 Milton Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 88, N'44 Second Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 89, N'534 Old Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 90, N'110 Fabien Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 91, N'11 New Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 92, N'529 North Second Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 93, N'178 Green Oak St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 94, N'66 South Milton Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 95, N'51 Rocky Hague Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 96, N'89 Nobel Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 97, N'908 First Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 98, N'34 First Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 99, N'442 South Rocky Oak Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 100, N'49 Cowley Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 101, N'691 First Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 102, N'354 Green Milton Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 103, N'63 White Oak Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 104, N'81 Rocky Old Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 105, N'28 Rocky Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 106, N'86 West White Fabien Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 107, N'49 Green Clarendon Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 108, N'96 Fabien Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 109, N'22 West Old St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 110, N'74 West White Old Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 111, N'607 East White Oak Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 112, N'97 Oak Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 113, N'107 South Rocky New Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 114, N'81 White New Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 115, N'68 Fabien Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 116, N'484 White Clarendon Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 117, N'589 Nobel Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 118, N'29 Rocky Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 119, N'258 Hague Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 120, N'293 Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 121, N'27 Old St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 122, N'15 Oak Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 123, N'571 New Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 124, N'96 East Nobel Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 125, N'388 East Green First Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 126, N'48 Fabien Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 127, N'45 White First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 128, N'382 Green Milton Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 129, N'20 Rocky Oak Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 130, N'78 Green Fabien Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 131, N'547 First Street', NULL, N'Quận 3', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 132, N'620 Rocky Cowley Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 133, N'67 East Green Second Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 134, N'417 Green Nobel Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 135, N'70 New Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 136, N'49 West Milton Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 137, N'584 White Oak Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 138, N'13 West Cowley Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 139, NULL, NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 140, N'885 Nobel Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 141, N'423 Rocky Milton Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 142, N'21 Fabien Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 143, N'35 Clarendon St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 144, N'75 Old Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 145, N'800 Clarendon Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 146, N'506 Milton Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 147, N'433 West Green Second Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 148, N'74 Hague Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 149, N'54 West Hague Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 150, N'34 Fabien Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 151, N'24 White Fabien Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 152, N'921 Clarendon Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 153, N'80 Green Oak Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 154, N'966 South First Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 155, N'273 Rocky Hague Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 156, N'30 West Green Second Blvd.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 157, N'821 Second Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 158, N'21 South First Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 159, N'914 Rocky Nobel Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 160, N'793 Clarendon Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 161, N'12 New Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 162, N'949 Clarendon Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 163, N'61 Second St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 164, N'39 Nobel Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 165, N'925 West Clarendon Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 166, N'376 First Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 167, N'951 Old St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 168, N'56 Oak Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 169, N'729 West New Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 170, N'55 West Rocky Cowley Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 171, N'705 Cowley Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 172, N'469 Hague Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 173, N'18 White Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 174, N'815 New Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 175, N'26 Green Clarendon Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 176, N'678 Oak Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 177, N'343 Milton Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 178, N'401 Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 179, N'865 White Nobel Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 180, N'80 Green Milton Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 181, N'408 New Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 182, N'23 Hague Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 183, N'33 Milton St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 184, N'620 Milton Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 185, N'33 South Clarendon Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 186, N'41 South Rocky Hague Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 187, N'733 North Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 188, N'14 Rocky First Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 189, N'469 Second St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 190, N'63 North Cowley Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 191, N'882 Rocky Clarendon Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 192, N'247 First Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 193, N'564 White New Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 194, N'457 White Second Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 195, N'30 Clarendon Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 196, N'16 Milton Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 197, N'425 South Green Clarendon Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 198, N'33 South Old Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 199, N'36 First Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 200, N'520 Second Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 201, N'64 Oak Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 202, N'516 Hague Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 203, N'33 White Oak Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 204, N'613 East Rocky Cowley Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 205, N'105 East Nobel Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 206, N'61 West Clarendon Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 207, N'31 East First Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 208, N'37 White Second Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 209, N'585 Green Hague Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 210, N'921 West New Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 211, N'965 New Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 212, N'77 Rocky Old Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 213, N'604 West Rocky Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 214, N'81 Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 215, N'716 Rocky First Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 216, N'277 Cowley Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 217, N'955 Rocky Second Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 218, N'285 Fabien Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 219, N'585 East White Hague Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 220, N'796 White Milton Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 221, N'18 Green Nobel Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 222, N'84 Rocky Oak St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 223, N'84 Second Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 224, N'468 Rocky Cowley Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 225, N'77 Rocky Clarendon Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 226, N'592 Rocky Fabien Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 227, N'487 East Green Cowley Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 228, N'35 Rocky New Street', NULL, N'Quận Thủ Đức', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 229, N'27 East Green Hague Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 230, N'85 Nobel Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 231, N'35 New Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 232, N'333 New Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 233, N'99 Green Oak Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 234, N'60 Clarendon Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 235, N'954 First Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 236, N'815 Old Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 237, N'48 Hague Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 238, N'243 Nobel Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 239, N'34 Second Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 240, N'47 North Rocky Oak Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 241, N'62 North Green Nobel Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 242, N'28 Fabien St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 243, N'71 South Second Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 244, N'24 Rocky Nobel Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 245, N'376 White Cowley Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 246, N'674 Fabien Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 247, N'781 Oak St.', NULL, N'Quận Bình Thạnh', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 248, N'330 North Rocky Milton Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 249, N'426 East Old St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 250, N'648 Second Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 251, N'35 First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 252, N'647 Green Oak Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 253, N'445 Cowley Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 254, N'961 Rocky Hague St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 255, N'676 Rocky Nobel Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 256, N'989 New Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 257, N'841 Milton Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 258, N'89 East First Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 259, N'28 Cowley Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 260, N'483 Second Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 261, N'626 Oak Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 262, N'937 White Old St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 263, N'787 West Rocky Hague Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 264, N'180 New Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 265, N'848 Rocky Hague St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 266, N'894 North Nobel Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 267, N'13 Green Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 268, N'380 Rocky Nobel Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 269, N'126 Fabien Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 270, N'37 Rocky Clarendon St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 271, N'985 West White Fabien Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 272, N'64 Rocky Hague Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 273, N'557 First Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 274, N'328 East Green Cowley Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 275, N'79 Clarendon Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 276, N'227 Rocky Old Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 277, N'79 Nobel Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 278, N'243 East Old Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 279, N'20 White Hague Boulevard', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 280, N'519 Second Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 281, N'38 Fabien Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 282, N'74 West Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 283, N'69 East Second Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 284, NULL, NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 285, N'937 Old Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 286, N'709 North Hague Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 287, N'297 New St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 288, N'40 Green Clarendon St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 289, N'77 Oak Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 290, N'234 Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 291, N'34 White Oak Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 292, N'38 North Green First Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 293, N'399 Rocky Fabien St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 294, N'13 North White Nobel Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 295, N'88 North White Old Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 296, N'486 White Oak Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 297, N'444 Oak Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 298, N'31 Nobel Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 299, N'476 Rocky Hague Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 300, N'821 Milton Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 301, N'69 Clarendon Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 302, N'92 Green Cowley Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 303, N'65 Green Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 304, N'96 South White Nobel Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 305, N'659 North Oak Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 306, N'99 North Milton Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 307, N'670 Second Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 308, N'70 North Fabien Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 309, N'404 Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 310, N'52 Green New Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 311, N'74 Cowley Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 312, N'147 East Second Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 313, N'160 Rocky First Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 314, N'40 Clarendon Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 315, N'466 Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 316, N'483 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 317, N'93 North Second Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 318, N'607 Cowley Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 319, N'555 Hague Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 320, N'911 White Old Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 321, N'513 Green Oak St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 322, N'142 North Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 323, N'63 New Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 324, N'965 Clarendon Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 325, N'56 White Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 326, N'466 Rocky Old Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 327, N'41 East Green Second Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 328, N'911 East White Clarendon Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 329, N'794 Cowley Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 330, N'834 Hague Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 331, N'102 White Clarendon Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 332, N'33 Oak St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 333, N'158 East First Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 334, N'877 East White Hague Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 335, N'13 Milton Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 336, N'781 Green Fabien Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 337, N'27 Rocky Nobel Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 338, N'66 North Rocky Second Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 339, N'85 Second Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 340, N'78 West Second Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 341, N'82 North Rocky Nobel Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 342, N'27 Cowley Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 343, N'82 Milton Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 344, N'73 Hague Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 345, N'73 Green Clarendon St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 346, N'687 South Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 347, NULL, NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 348, N'57 Green Nobel Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 349, N'254 Second Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 350, N'13 White Old St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 351, N'32 White Hague Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 352, N'879 Second Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 353, N'984 South Fabien Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 354, N'748 White Second Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 355, N'39 Nobel St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 356, N'952 Fabien Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 357, N'361 White Fabien Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 358, N'17 Green Milton Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 359, N'688 Rocky First Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 360, N'322 First Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 361, N'49 Clarendon Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 362, N'25 Green Second Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 363, N'831 Old Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 364, N'583 Hague Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 365, N'16 Green New Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 366, N'54 White Old Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 367, N'996 Rocky Old Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 368, N'659 East White Nobel Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 369, N'56 Nobel Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 370, N'92 New Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 371, N'577 Rocky Clarendon Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 372, N'798 Clarendon Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 373, N'839 White Fabien Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 374, N'740 North Milton Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 375, N'437 New Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 376, N'22 Rocky Old Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 377, N'530 Cowley Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 378, N'62 North Fabien St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 379, N'719 North Fabien St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 380, N'77 South Oak St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 381, N'952 East Nobel Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 382, N'108 Green Old Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 383, N'155 South First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 384, N'28 Milton Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 385, N'451 Fabien Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 386, N'80 Oak Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 387, N'51 West Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 388, N'13 North Rocky Clarendon Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 389, N'93 Rocky Clarendon Blvd.', NULL, N'Quận 3', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 390, N'626 East Nobel Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 391, N'53 Fabien Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 392, N'11 First Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 393, N'388 First Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 394, N'461 Milton Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 395, N'608 Rocky Second Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 396, N'878 White Milton St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 397, N'15 Cowley Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 398, N'71 Green New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 399, N'47 Green Hague Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 400, N'90 Cowley Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 401, N'191 White Nobel Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 402, N'22 Green Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 403, N'377 Rocky Oak St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 404, N'73 Rocky Clarendon Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 405, N'18 Old Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 406, N'974 First St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 407, N'826 White Cowley Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 408, N'718 Nobel Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 409, N'271 Rocky Nobel Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 410, N'725 White Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 411, N'842 Milton Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 412, N'959 Fabien Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 413, N'619 Second Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 414, N'89 Rocky Old Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 415, N'515 Green Second Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 416, N'586 Cowley Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 417, N'500 East Green Milton Blvd.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 418, N'33 West Oak Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 419, N'98 Rocky Cowley Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 420, N'78 First Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 421, N'44 West Rocky Nobel Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 422, N'994 Green Milton Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 423, N'76 First Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 424, N'750 Old Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 425, N'49 Hague Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 426, N'52 Rocky Fabien Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 427, N'40 Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 428, N'491 Second Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 429, N'60 Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 430, N'56 White Hague Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 431, N'485 Fabien Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 432, N'52 West Clarendon St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 433, N'96 White Oak Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 434, N'705 White Second Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 435, N'903 Rocky Second Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 436, N'89 New Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 437, N'84 Oak Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 438, N'607 Milton Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 439, N'767 Second Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 440, N'701 Nobel Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 441, N'45 Fabien Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 442, N'17 New St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 443, N'253 Rocky Fabien Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 444, N'447 Milton Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 445, N'70 South Rocky Milton Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 446, N'21 Oak Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 447, N'981 First St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 448, N'244 East White Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 449, N'17 Fabien Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 450, N'79 Rocky New Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 451, N'339 First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 452, N'236 South Green New Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 453, N'629 White Nobel Boulevard', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 454, N'112 Second Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 455, N'62 Clarendon Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 456, N'24 North Green Oak Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 457, N'76 North Green Clarendon Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 458, N'959 East Milton Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 459, N'39 Green Nobel St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 460, N'620 Milton Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 461, N'68 Fabien Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 462, N'506 New Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 463, N'73 West Rocky Clarendon Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 464, N'25 Clarendon St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 465, N'42 Oak Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 466, N'55 Second Blvd.', NULL, N'Quận Bình Thạnh', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 467, N'957 East Clarendon St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 468, N'915 Rocky New Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 469, N'187 East Clarendon Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 470, N'51 West Green Oak Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 471, N'57 Clarendon Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 472, N'478 Nobel Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 473, N'75 South White Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 474, N'483 Rocky First Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 475, N'67 Green Cowley Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 476, N'75 Green Nobel Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 477, N'98 Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 478, N'589 South Rocky Oak Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 479, N'673 Milton Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 480, N'737 New St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 481, N'816 West Clarendon Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 482, N'458 Milton Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 483, N'598 White Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 484, N'76 Green Hague Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 485, N'90 East Milton Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 486, N'144 South Green Hague St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 487, N'413 Green First Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 488, N'552 Hague Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 489, N'53 White Hague Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 490, N'281 North Hague Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 491, N'325 Cowley Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 492, N'53 Fabien Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 493, N'76 Rocky Cowley Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 494, N'682 First Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 495, N'673 Hague Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 496, N'75 South Cowley St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 497, N'314 Rocky Clarendon Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 498, N'822 South Fabien St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 499, N'781 Fabien Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 500, N'12 White First Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 501, N'50 Nobel Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 502, N'33 White Milton Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 503, N'87 Clarendon St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 504, N'36 White Fabien Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 505, N'76 Cowley Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 506, N'78 Milton Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 507, N'70 Hague Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 508, N'25 White Cowley Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 509, N'793 Rocky First Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 510, N'104 Clarendon St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 511, N'723 South Second Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 512, N'68 First Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 513, N'74 White Clarendon Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 514, N'548 North Green New Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 515, N'23 East Rocky Cowley Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 516, N'151 South White Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 517, N'28 Nobel St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 518, N'226 Green Cowley Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 519, N'86 Milton Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 520, N'294 Green Cowley St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 521, N'365 White Clarendon Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 522, N'123 Nobel Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 523, N'13 White Clarendon Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 524, N'48 Hague Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 525, N'761 West Second Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 526, N'25 Green First Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 527, N'232 Old Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 528, N'740 New St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 529, N'70 West Green Nobel Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 530, N'98 West White Old Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 531, N'40 Rocky Cowley Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 532, N'494 Second Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 533, N'205 East Cowley Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 534, N'924 Clarendon Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 535, N'962 Green Nobel Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 536, N'95 Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 537, N'888 Nobel Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 538, N'183 Milton Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 539, N'35 Rocky Milton Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 540, N'94 Milton Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 541, N'94 Cowley Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 542, N'679 Cowley Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 543, N'21 Green Fabien Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 544, N'53 Green Cowley St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 545, N'242 Green First Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 546, N'62 Old Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 547, N'865 White Second Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 548, N'65 Green Nobel Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 549, N'21 South Rocky Old Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 550, N'634 Milton Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 551, N'576 White Old Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 552, N'669 East Green Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 553, N'31 South Green Cowley Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 554, N'881 Green Fabien Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 555, N'144 East White First Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 556, N'816 West Green Old Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 557, N'987 Milton Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 558, N'68 First Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 559, N'45 Hague Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 560, N'922 North Old Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 561, N'125 White Milton St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 562, N'150 White Cowley Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 563, N'63 New Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 564, N'63 Hague Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 565, N'37 First Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 566, N'44 Oak Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 567, N'10 West White Nobel Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 568, N'442 Hague Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 569, N'67 North Cowley Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 570, N'408 Fabien Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 571, N'90 First Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 572, N'317 Clarendon Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 573, N'282 South First Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 574, N'749 New Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 575, N'861 South First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 576, N'67 South White Milton Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 577, N'774 White First Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 578, N'59 White Cowley Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 579, N'997 West Rocky New Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 580, N'266 Nobel Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 581, N'28 Milton Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 582, N'556 South Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 583, N'51 First Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 584, N'27 Second Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 585, N'155 Fabien Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 586, N'393 East Nobel Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 587, N'90 South Rocky Cowley Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 588, N'746 North Green Nobel Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 589, N'46 Cowley Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 590, N'96 North Green Second St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 591, N'700 Cowley Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 592, N'79 Green Second Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 593, N'996 Fabien Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 594, N'63 Green Nobel Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 595, N'84 White Milton Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 596, N'431 West Rocky Hague Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 597, N'55 White Hague Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 598, N'91 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 599, N'70 White New Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 600, N'42 Old Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 601, N'520 Milton Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 602, N'552 Old St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 603, N'827 Old Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 604, N'601 North Green First Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 605, N'858 Nobel Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 606, N'36 Oak Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 607, N'64 Cowley Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 608, N'176 New Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 609, N'89 White Oak Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 610, N'405 White New Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 611, N'384 Green Oak Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 612, N'164 Milton Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 613, N'74 Hague Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 614, N'594 White Milton Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 615, N'65 Rocky New Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 616, N'51 Rocky Oak Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 617, N'463 Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 618, N'790 First Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 619, N'170 West Nobel Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 620, N'42 Clarendon Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 621, N'601 Green New Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 622, N'80 South Clarendon Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 623, N'34 Nobel Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 624, N'80 First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 625, N'338 White Oak Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 626, N'33 West Cowley St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 627, N'970 New St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 628, N'906 West First Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 629, N'77 Old St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 630, N'33 Rocky Old St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 631, N'72 Hague Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 632, N'945 Nobel Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 633, N'95 Rocky Clarendon Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 634, N'17 New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 635, N'482 White Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 636, N'844 White Second Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 637, N'55 Second Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 638, NULL, NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 639, N'480 White Clarendon Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 640, N'565 Clarendon St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 641, N'177 Green Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 642, N'505 Green Fabien Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 643, N'24 North Hague Way', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 644, N'407 Green Hague Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 645, N'671 Clarendon Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 646, N'22 East New Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 647, N'119 West Clarendon Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 648, N'41 Green First St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 649, N'521 Milton Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 650, N'19 Rocky First Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 651, N'522 Cowley Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 652, N'80 Oak Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 653, N'81 Rocky Milton Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 654, N'65 Green Hague Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 655, N'463 First Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 656, N'36 Green Nobel Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 657, N'987 Second Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 658, N'65 Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 659, N'61 Second Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 660, N'262 East Rocky Oak Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 661, N'37 North Green Clarendon Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 662, N'68 East Second Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 663, N'760 Green Hague Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 664, N'92 Second Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 665, N'344 North White Fabien Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 666, N'836 Oak Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 667, N'32 Clarendon Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 668, N'77 White Old Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 669, N'532 White Hague St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 670, N'67 Old Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 671, N'632 Old Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 672, N'468 First Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 673, N'558 Old Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 674, N'14 Milton Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 675, N'450 White Second Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 676, N'934 South Oak Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 677, N'998 First Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 678, N'84 Green Hague Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 679, N'812 Milton Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 680, N'98 Rocky Second Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 681, N'540 Cowley Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 682, N'529 South Nobel Blvd.', NULL, N'Quận Tân Bình', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 683, N'88 First Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 684, N'52 Clarendon Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 685, N'203 Oak Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 686, N'55 White New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 687, N'60 Green First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 688, N'94 Oak Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 689, N'419 Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 690, N'433 Rocky Fabien Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 691, N'748 North Second Boulevard', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 692, N'50 East White New Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 693, N'44 West Cowley St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 694, N'857 South Nobel Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 695, N'21 East Cowley Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 696, N'32 Rocky Second Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 697, N'269 West Oak Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 698, N'92 Cowley Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 699, N'301 North White Milton Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 700, N'111 New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 701, N'473 East Second Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 702, N'365 Milton St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 703, N'856 Green Fabien Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 704, N'568 Clarendon Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 705, N'54 Old Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 706, N'629 White Nobel Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 707, N'64 Green Nobel Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 708, N'348 Hague Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 709, N'87 New St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 710, N'63 Nobel Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 711, N'678 Rocky Second Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 712, N'94 Second Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 713, N'809 South New Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 714, N'29 Old Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 715, N'54 Oak Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 716, N'90 Rocky Old Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 717, N'445 Green Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 718, N'955 Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 719, N'871 Green New St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 720, N'47 West Green Nobel Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 721, N'78 East Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 722, N'51 West Green Fabien Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 723, N'99 White Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 724, N'76 Oak Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 725, N'662 Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 726, N'394 Clarendon Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 727, N'49 First Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 728, N'86 West White Second Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 729, N'75 Rocky Oak Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 730, N'16 North Fabien Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 731, N'85 South Green New Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 732, N'23 West Nobel Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 733, N'26 Hague Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 734, N'76 Rocky Old Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 735, N'887 White Nobel St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 736, N'59 New Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 737, N'53 White Second Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 738, N'114 Hague Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 739, N'634 West Nobel Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 740, N'831 Clarendon Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 741, N'43 White Oak Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 742, N'277 Nobel Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 743, N'94 North Old Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 744, N'78 New Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 745, N'59 South Clarendon Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 746, N'951 White Oak Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 747, N'35 Rocky Fabien Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 748, N'54 Oak Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 749, N'396 First Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 750, N'573 Rocky Old Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 751, N'32 West Green Clarendon Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 752, N'185 Cowley Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 753, N'31 Fabien Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 754, N'168 Green Cowley Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 755, N'17 South Green Fabien Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 756, N'930 Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 757, N'28 Fabien St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 758, N'34 South Old Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 759, N'426 First Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 760, N'42 North Rocky Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 761, N'155 Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 762, N'636 White Nobel Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 763, N'11 First Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 764, N'68 Nobel Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 765, N'374 West Hague Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 766, N'719 West Rocky Cowley Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 767, N'374 First Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 768, N'786 Green New Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 769, N'90 Rocky Second Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 770, N'187 Old Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 771, N'89 Clarendon St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 772, N'95 North First Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 773, N'850 North Nobel Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 774, N'576 Milton Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 775, N'193 Hague Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 776, N'282 Old Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 777, N'291 Green First Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 778, N'33 West Second Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 779, N'76 Clarendon Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 780, N'72 Second Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 781, N'508 East New Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 782, N'92 East Nobel St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 783, N'215 First Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 784, N'711 White Second Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 785, N'40 Nobel St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 786, N'705 White Cowley Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 787, NULL, NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 788, N'979 Green Second Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 789, N'15 Nobel Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 790, N'347 Oak Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 791, N'107 South Rocky Fabien Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 792, N'831 Rocky Cowley Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 793, N'18 Second Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 794, N'50 Old Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 795, N'29 Green Clarendon Drive', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 796, N'959 New Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 797, N'30 Hague Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 798, N'711 Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 799, N'608 New Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 800, N'76 Old Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 801, NULL, NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 802, N'39 East Milton Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 803, N'852 Nobel Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 804, N'46 East Cowley Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 805, N'39 Green Oak Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 806, N'17 North White Nobel Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 807, N'729 Nobel Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 808, N'710 East Rocky Old Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 809, N'28 White Clarendon Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 810, N'83 West Second Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 811, N'95 Green First Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 812, N'29 West Green Old Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 813, N'62 Rocky Clarendon Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 814, N'91 New Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 815, N'948 Clarendon Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 816, N'70 South Green Oak Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 817, N'780 White Old Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 818, N'71 First Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 819, N'288 South Clarendon Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 820, N'508 South Nobel Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 821, N'51 North Rocky Clarendon Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 822, N'363 White First Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 823, N'935 South Rocky Second Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 824, N'81 South Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 825, N'719 North Green Milton Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 826, N'72 White New Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 827, N'77 South New Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 828, N'683 Second Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 829, N'923 New St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 830, N'755 Green Fabien Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 831, N'484 Green Hague Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 832, N'18 Old Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 833, N'650 Fabien Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 834, N'305 Clarendon Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 835, N'62 Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 836, N'61 Clarendon Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 837, N'56 West Green Milton Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 838, N'874 South Nobel Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 839, N'262 North Green Second Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 840, N'93 White New Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 841, N'985 West Green Nobel Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 842, N'382 West Green First Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 843, N'638 Hague Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 844, N'56 Milton Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 845, N'75 Second Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 846, N'367 Milton Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 847, N'700 Fabien Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 848, N'17 New Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 849, N'666 South Fabien Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 850, N'90 Hague Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 851, N'475 South Green Cowley Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 852, N'103 Milton Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 853, N'166 Oak Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 854, N'82 Green New Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 855, N'85 New Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 856, N'71 New Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 857, N'28 North White Old Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 858, N'17 Green Oak Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 859, N'451 South White Oak Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 860, N'87 Oak Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 861, N'72 East Green Milton Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 862, N'75 Rocky Nobel Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 863, N'22 Green New Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 864, N'70 New Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 865, N'24 Fabien Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 866, N'29 Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 867, N'57 Second St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 868, N'741 North Rocky Hague Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 869, N'68 First Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 870, N'901 East Milton Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 871, N'803 Green Clarendon Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 872, N'13 North Rocky Clarendon Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 873, N'89 Green Clarendon Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 874, N'293 White Nobel St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 875, N'980 Rocky New St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 876, N'974 Fabien Boulevard', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 877, N'262 Fabien St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 878, N'44 White Second Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 879, N'614 Oak Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 880, N'39 New St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 881, N'400 New Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 882, N'17 Rocky Clarendon Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 883, N'21 East Green Nobel Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 884, N'825 Rocky Hague Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 885, N'736 Second Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 886, N'63 Fabien St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 887, N'639 First Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 888, N'874 East Hague St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 889, N'119 First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 890, N'233 South Hague Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 891, N'164 South First Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 892, N'130 White Old Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 893, N'917 Second Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 894, N'914 Cowley Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 895, N'557 North New Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 896, N'383 South White Hague Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 897, N'249 Rocky Second Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 898, N'612 Oak St.', NULL, N'Quận 3', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 899, N'544 Nobel Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 900, N'272 White Oak Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 901, N'38 Milton Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 902, N'484 Rocky Cowley Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 903, N'79 Rocky Milton Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 904, N'778 White Oak Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 905, N'16 Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 906, N'738 Old St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 907, N'311 South Cowley Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 908, N'62 East Cowley Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 909, N'721 South Second St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 910, N'562 West White Clarendon Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 911, N'62 First Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 912, N'16 Milton Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 913, N'60 White New Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 914, N'326 Rocky Nobel Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 915, N'907 First Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 916, N'30 Green Nobel Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 917, N'14 Old Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 918, N'60 Green Old Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 919, N'640 East White Old Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 920, N'411 Nobel St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 921, N'24 Clarendon Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 922, N'74 East Cowley Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 923, N'21 East Old Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 924, N'78 White Fabien Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 925, N'804 Rocky Nobel Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 926, N'511 South Green Oak Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 927, N'729 New Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 928, N'727 Cowley Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 929, N'24 White Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 930, N'32 White Nobel Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 931, N'952 South First Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 932, N'62 Rocky Cowley Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 933, N'145 Oak Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 934, N'10 Rocky Nobel Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 935, N'681 Hague Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 936, N'44 Rocky Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 937, N'90 White Fabien Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 938, N'69 North Hague Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 939, N'751 New Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 940, N'182 Clarendon Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 941, N'61 White Second Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 942, N'530 Second Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 943, N'10 East White Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 944, N'71 Green Clarendon Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 945, N'645 Old St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 946, N'16 Old Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 947, N'686 North Milton Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 948, N'604 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 949, N'13 Cowley Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 950, N'96 North Green Second Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 951, N'141 Cowley Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 952, N'54 Green Hague Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 953, N'721 Oak Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 954, N'185 Fabien St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 955, N'13 Green Nobel Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 956, N'50 North Green New Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 957, N'615 White Oak St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 958, N'93 Fabien Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 959, N'229 Milton Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 960, N'777 North First Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 961, N'958 Nobel Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 962, N'41 East Fabien Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 963, N'11 East Old Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 964, N'317 East White Old Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 965, N'279 First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 966, N'84 Green Fabien Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 967, N'36 Rocky New Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 968, N'78 Cowley Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 969, N'29 First Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 970, N'98 Green Second Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 971, N'65 Fabien Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 972, N'18 Hague Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 973, N'502 First Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 974, N'73 First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 975, N'948 Rocky Second St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 976, N'83 Old St.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 977, N'47 South Milton Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 978, N'85 White First St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 979, N'89 Milton St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 980, N'71 Second Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 981, N'562 White Fabien Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 982, N'94 Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 983, N'46 Rocky First Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 984, N'19 Rocky New Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 985, N'78 New Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 986, N'74 White Cowley Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 987, N'16 Milton Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 988, N'48 Rocky Hague Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 989, N'58 Hague Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 990, N'11 Rocky Oak Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 991, N'14 South Milton Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 992, N'577 White Second Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 993, N'82 Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 994, N'19 Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 995, N'887 Clarendon Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 996, N'11 Green Nobel Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 997, N'411 East Green Cowley Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 998, N'46 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 999, N'80 Cowley Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1000, N'876 West Nobel Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1001, N'62 Oak Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1002, N'517 Rocky Nobel Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1003, N'611 Green Milton Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1004, N'786 Second St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1005, N'593 Fabien Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1006, N'608 West Milton Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1007, N'29 East Fabien Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1008, N'822 North Hague Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1009, N'68 North Cowley Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1010, N'72 First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1011, N'375 White New Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1012, N'66 Green Nobel Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1013, N'688 Oak Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1014, N'828 Fabien St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1015, N'55 East Old Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1016, N'369 South Fabien Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1017, N'462 Rocky Old Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1018, N'56 Milton Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1019, N'775 East Rocky First Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1020, N'29 Oak Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1021, N'944 White Old Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1022, N'933 White Nobel Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1023, N'39 Green Fabien Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1024, N'76 Old Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1025, N'625 North New St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1026, N'510 Green First St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1027, N'29 Rocky Old Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1028, N'189 West Milton Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1029, N'89 White Cowley Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1030, N'972 East White Cowley Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1031, N'56 East First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1032, N'247 Cowley Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1033, N'140 Green Fabien Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1034, N'736 Rocky First Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1035, N'433 North White First Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1036, N'32 Milton Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1037, N'42 Green Cowley Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1038, N'82 North White Cowley Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1039, N'86 Second Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1040, N'97 White Oak Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1041, N'294 Hague Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1042, N'30 Green Clarendon St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1043, N'795 White Cowley Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1044, N'853 New Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1045, N'329 First Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1046, N'491 Nobel Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1047, N'799 First Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1048, N'92 Rocky Fabien Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1049, N'229 First Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1050, N'30 New Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1051, N'20 North Second Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1052, N'71 First Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1053, N'114 Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1054, NULL, NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1055, N'881 Nobel Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1056, N'89 East Milton Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1057, N'409 Oak Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1058, N'389 East Old Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1059, N'78 North Rocky First St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1060, N'36 Green Milton St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1061, N'383 Nobel Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1062, N'501 Green Fabien Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1063, N'37 Second Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1064, N'118 North Cowley Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1065, N'780 Clarendon Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1066, N'406 Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1067, N'11 Rocky Nobel Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1068, N'634 Green Hague Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1069, N'668 White Oak Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1070, N'859 New Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1071, N'203 Clarendon Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1072, N'231 Old Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1073, N'16 Milton Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1074, N'92 First Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1075, N'43 Milton Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1076, N'46 Clarendon Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1077, N'18 Rocky New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1078, N'23 Hague Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1079, N'56 Cowley Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1080, N'276 East Cowley Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1081, NULL, NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1082, N'49 White Second Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1083, N'23 West New Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1084, N'874 South First Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1085, N'59 New Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1086, N'78 Nobel St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1087, N'143 Rocky First Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1088, N'48 White Milton Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1089, N'782 Nobel Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1090, N'91 East Green Nobel Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1091, N'28 White Cowley Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1092, N'68 Rocky Hague Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1093, N'883 White Second Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1094, N'507 Rocky Nobel Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1095, N'489 White Fabien Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1096, N'68 West Fabien Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1097, N'98 Rocky Old Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1098, N'234 Second Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1099, N'88 South Rocky Clarendon St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1100, N'725 Cowley Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1101, N'31 Milton Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1102, N'66 South Second Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1103, N'988 Nobel Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1104, N'66 Old St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1105, N'225 Cowley Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1106, NULL, NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1107, N'922 East White Fabien Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1108, N'137 West Milton St.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1109, N'800 White New Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1110, N'19 Second Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1111, N'40 White New Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1112, N'63 Old Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1113, N'684 North White First Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1114, N'443 Clarendon Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1115, N'615 North Nobel Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1116, N'102 Clarendon Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1117, N'885 South Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1118, N'67 South White First Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1119, N'715 New Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1120, N'80 South Nobel Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1121, N'917 Cowley Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1122, N'639 Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1123, N'540 Rocky New Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1124, N'92 Rocky Cowley Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1125, N'38 Rocky New Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1126, N'348 Rocky Second Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1127, N'305 Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1128, N'503 Old Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1129, N'99 New Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1130, N'926 Milton Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1131, N'410 Cowley Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1132, N'89 Rocky Milton Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1133, N'99 North Nobel St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1134, N'32 West Cowley Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1135, N'227 Milton Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1136, N'16 North Green Nobel Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1137, N'150 Fabien Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1138, N'59 North Rocky New Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1139, N'78 North White Second Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1140, N'71 Green Old Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1141, N'794 Fabien Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1142, N'380 Hague Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1143, N'45 Rocky First Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1144, N'57 Old Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1145, N'203 East Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1146, N'462 Hague Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1147, N'829 East Nobel Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1148, N'566 East White First St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1149, N'60 White Clarendon Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1150, N'967 White Hague Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1151, N'286 South White First Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1152, N'969 Cowley Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1153, N'36 Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1154, N'206 White Second Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1155, N'225 Hague Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1156, N'14 Rocky Old St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1157, N'78 Old Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1158, N'80 East Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1159, N'342 South Rocky Old St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1160, N'410 Oak Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1161, N'81 Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1162, N'32 Nobel Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1163, N'648 Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1164, N'71 Rocky Old Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1165, N'302 New Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1166, N'69 Green Milton Parkway', NULL, N'Quận 5', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1167, N'18 South New Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1168, N'44 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1169, N'707 Oak Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1170, N'14 Cowley Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1171, N'998 East White Cowley Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1172, N'328 Green Fabien St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1173, N'27 Green Clarendon Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1174, N'453 Green Hague Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1175, N'465 White Fabien Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1176, N'39 Cowley Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1177, N'20 North New Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1178, N'10 White Nobel Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1179, N'98 White Milton Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1180, N'296 West Rocky Milton Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1181, N'70 Rocky Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1182, N'97 Nobel Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1183, N'318 West New Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1184, N'780 First Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1185, N'13 Green Nobel Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1186, N'207 Hague St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1187, N'46 Rocky Old Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1188, N'778 East Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1189, N'744 Green Second Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1190, N'77 Cowley Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1191, N'249 Green Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1192, N'43 North Green Old Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1193, N'359 Cowley Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1194, N'97 North Clarendon Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1195, N'55 Milton Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1196, N'60 Old Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1197, N'136 Rocky Clarendon Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1198, N'29 Clarendon Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1199, N'680 Hague Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1200, N'487 Old Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1201, N'78 First Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1202, N'376 West Hague Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1203, N'407 Old Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1204, N'24 Oak Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1205, N'261 East Second Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1206, N'27 White Oak Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1207, N'53 Rocky Cowley Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1208, N'96 Oak Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1209, N'307 Milton Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1210, N'547 Milton Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1211, N'99 Rocky Cowley Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1212, N'152 West White Cowley Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1213, N'56 Green First Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1214, N'568 Rocky First Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1215, N'27 Clarendon Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1216, N'34 Green Nobel Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1217, NULL, NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1218, N'117 Hague Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1219, N'77 Clarendon Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1220, N'69 Green New Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1221, N'42 East White Nobel Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1222, N'62 Oak Blvd.', NULL, N'Quận Tân Bình', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1223, N'96 Old Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1224, N'61 South Old Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1225, N'34 Green First Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1226, N'836 South Rocky Hague Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1227, N'327 Cowley Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1228, N'671 Milton Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1229, N'901 Cowley Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1230, N'994 East Cowley Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1231, N'259 Rocky Nobel Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1232, N'46 North Green Nobel Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1233, N'300 Milton Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1234, N'25 Cowley Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1235, N'421 Green First Street', NULL, N'Quận Bình Thạnh', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1236, N'91 Green Oak Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1237, N'260 White Hague Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1238, N'994 White Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1239, N'655 West Green Nobel Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1240, N'933 White First Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1241, N'18 Old Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1242, N'148 White Clarendon Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1243, N'96 Fabien Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1244, N'269 Milton St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1245, N'962 Hague Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1246, N'38 East Cowley Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1247, N'966 North Old Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1248, N'19 Rocky New Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1249, N'74 Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1250, N'60 Cowley Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1251, N'15 White Nobel Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1252, N'325 White New Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1253, N'40 East Oak Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1254, N'22 North First Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1255, N'20 West Clarendon Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1256, N'693 Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1257, N'882 White Fabien Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1258, N'179 Rocky Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1259, N'734 North Second Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1260, N'54 North Hague Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1261, N'533 Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1262, N'862 White Clarendon Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1263, N'842 East Green Old Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1264, N'344 Milton Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1265, N'192 North First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1266, N'42 Milton Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1267, N'530 West Nobel Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1268, N'760 Clarendon Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1269, N'471 Cowley Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1270, N'99 Cowley Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1271, N'41 White Fabien Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1272, N'86 East Rocky Cowley Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1273, N'517 Green Clarendon Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1274, N'201 Rocky New Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1275, N'946 Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1276, N'166 Rocky Milton Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1277, N'775 Green Old Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1278, N'17 Old Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1279, NULL, NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1280, N'703 First Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1281, N'646 Oak Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1282, N'49 Nobel Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1283, N'32 Second Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1284, N'39 South Rocky Clarendon Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1285, N'405 Green New Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1286, N'481 Rocky Old Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1287, N'113 Rocky Nobel Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1288, N'55 South First Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1289, N'118 Nobel Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1290, N'759 Green Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1291, N'77 White Milton Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1292, N'29 Oak Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1293, N'13 East Rocky Cowley Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1294, N'35 East Green Cowley Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1295, N'560 Green Fabien Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1296, N'430 Rocky Old St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1297, N'13 Oak Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1298, N'88 Second Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1299, N'12 East Fabien Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1300, N'632 Rocky Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1301, N'71 South Rocky Nobel Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1302, N'84 Fabien Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1303, N'51 East Green Clarendon Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1304, N'661 North First Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1305, N'387 Green Nobel Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1306, N'14 Oak Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1307, N'633 Hague Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1308, N'74 Clarendon Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1309, N'35 Old Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1310, N'756 Hague Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1311, N'190 Rocky Oak Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1312, N'63 White Hague St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1313, N'96 Green New Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1314, N'91 Milton Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1315, N'19 Green Milton Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1316, N'455 Rocky Second Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1317, N'201 Milton Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1318, N'50 North Second Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1319, N'45 Green Milton Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1320, N'325 West Green Nobel St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1321, N'722 Nobel Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1322, N'57 Nobel Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1323, N'530 White Oak Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1324, N'43 White Cowley Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1325, N'977 First Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1326, N'17 First Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1327, N'521 Fabien St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1328, N'474 West Cowley Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1329, N'87 Nobel St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1330, N'55 White Old Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1331, N'632 Milton Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1332, N'636 North Green Fabien Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1333, N'596 Rocky Clarendon Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1334, N'306 Rocky New Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1335, N'115 Green Clarendon St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1336, N'27 Rocky Oak Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1337, N'96 First Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1338, N'44 White Second Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1339, N'72 Green Cowley Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1340, N'26 North New Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1341, N'785 South Oak Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1342, N'419 Rocky Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1343, N'945 White Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1344, N'67 Second Road', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1345, N'938 Second Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1346, N'385 West Green Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1347, N'11 Green Fabien Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1348, N'98 Green Hague St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1349, N'77 Rocky Milton Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1350, N'312 Hague Street', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1351, N'36 Green Cowley Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1352, N'21 Rocky New Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1353, N'861 Rocky Cowley Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1354, N'74 Clarendon Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1355, N'82 West Nobel Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1356, N'69 East White Hague St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1357, N'80 Fabien Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1358, N'21 Green Nobel Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1359, N'902 Fabien Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1360, N'522 White Nobel Street', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1361, N'474 Clarendon Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1362, N'19 Rocky Nobel Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1363, N'29 Green Hague Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1364, N'961 Old Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1365, N'799 Old Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1366, N'50 Green First Road', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1367, N'183 North White Second Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1368, N'14 Second Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1369, N'39 North Fabien Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1370, N'12 Green Hague Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1371, N'36 North Fabien Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1372, N'292 White Nobel Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1373, N'773 West Green Second Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1374, N'813 North Milton St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1375, N'859 South Milton St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1376, N'766 Rocky Nobel Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1377, N'625 Green New Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1378, NULL, NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1379, N'963 East New Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1380, N'228 Rocky Milton Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1381, N'43 Green First Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1382, N'78 Green Clarendon Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1383, N'216 North Rocky New Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1384, N'734 South Rocky Oak Street', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1385, N'32 East Hague Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1386, N'98 Fabien Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1387, N'28 Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1388, N'44 Oak Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1389, N'25 Rocky Oak Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1390, N'534 Rocky Hague Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1391, N'326 South First Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1392, N'76 Green Hague Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1393, N'51 Fabien Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1394, N'983 South First Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1395, N'23 North White Clarendon Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1396, N'34 Oak St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1397, N'72 Green Old St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1398, N'415 Rocky New Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1399, N'93 South Milton Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1400, N'37 New Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1401, N'91 Rocky Fabien Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1402, N'25 White Clarendon Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1403, N'972 West White Nobel St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1404, N'52 New Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1405, N'470 Rocky Hague Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1406, N'977 South Green Clarendon Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1407, N'66 South Green Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1408, N'181 West Milton St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1409, N'96 White Oak Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1410, N'536 White Second Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1411, N'815 Green Clarendon Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1412, N'759 Nobel Street', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1413, N'44 Rocky First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1414, N'610 East White Nobel Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1415, N'94 South Second Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1416, N'48 Second Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1417, N'461 Milton Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1418, N'69 Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1419, N'98 White First Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1420, N'69 Rocky Nobel St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1421, N'92 Milton St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1422, N'894 Hague Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1423, N'335 North Green Second Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1424, N'89 Cowley Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1425, NULL, NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1426, N'559 Old Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1427, N'32 Hague Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1428, N'14 Nobel Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1429, N'27 South Rocky Second St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1430, N'646 Fabien Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1431, N'279 East First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1432, N'36 Milton Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1433, N'260 First Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1434, N'620 Green Nobel Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1435, N'490 Rocky Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1436, N'70 Rocky Oak Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1437, N'254 Hague Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1438, N'699 Milton Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1439, N'355 Cowley St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1440, N'44 Rocky New Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1441, N'477 First Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1442, N'13 Clarendon Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1443, N'79 Cowley Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1444, N'94 Cowley Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1445, N'135 Green First Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1446, N'481 West White Fabien Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1447, N'935 Rocky New Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1448, N'741 New Street', NULL, N'Quận 3', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1449, N'548 Rocky Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1450, N'640 Oak Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1451, N'30 Clarendon Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1452, N'74 Hague Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1453, N'889 Rocky Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1454, N'69 Rocky Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1455, N'350 Hague Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1456, N'427 East Second Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1457, N'465 West Old Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1458, NULL, NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1459, N'479 Fabien Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1460, N'749 North Oak Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1461, N'59 Milton Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1462, N'92 Milton Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1463, N'152 West Green Milton Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1464, N'986 Nobel St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1465, N'554 Clarendon Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1466, N'852 South White Second Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1467, N'18 North Cowley Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1468, N'83 East Oak Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1469, N'88 Old St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1470, N'57 Green Oak Drive', NULL, N'Quận 10', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1471, N'441 Green Cowley Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1472, N'78 Milton Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1473, N'59 Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1474, N'157 North White Hague Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1475, N'75 Fabien Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1476, N'598 Green Milton Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1477, N'99 West Green Old Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1478, N'29 North Old St.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1479, N'54 Green Fabien Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1480, N'857 Clarendon Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1481, N'319 Rocky Fabien Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1482, N'32 Nobel Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1483, N'37 Rocky Second Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1484, N'862 White Second Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1485, N'856 Nobel Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1486, N'35 Second Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1487, NULL, NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1488, N'881 White Old Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1489, N'437 White Old Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1490, N'636 Cowley Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1491, N'93 North Oak Blvd.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1492, N'15 North Fabien Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1493, N'21 Hague St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1494, N'62 North Hague Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1495, N'41 West Clarendon Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1496, N'895 East Fabien Avenue', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1497, N'119 Milton Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1498, N'24 Oak Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1499, N'96 White Milton Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1500, N'118 Second Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1501, N'74 Green Old Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1502, N'76 West Hague Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1503, N'24 White New Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1504, N'337 East White Hague Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1505, N'46 Green Old Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1506, N'68 Milton Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1507, N'42 Nobel Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1508, N'931 Old Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1509, N'13 White Cowley St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1510, N'598 North White Old Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1511, N'368 White First Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1512, N'98 Oak St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1513, N'41 Second Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1514, N'988 Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1515, N'252 Green Old Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1516, N'47 Rocky Oak Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1517, NULL, NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1518, N'387 Rocky Fabien Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1519, N'887 East Clarendon Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1520, N'820 Milton Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1521, N'56 West Second Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1522, N'12 Fabien Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1523, N'914 Green Nobel Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1524, N'36 South Oak Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1525, N'70 North Oak Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1526, N'67 White First Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1527, N'517 North Nobel Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1528, N'635 New Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1529, N'948 West Fabien St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1530, N'53 New St.', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1531, N'93 Clarendon Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1532, N'35 Green Second St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1533, N'37 Rocky Oak Avenue', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1534, N'515 North Rocky Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1535, NULL, NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1536, NULL, NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1537, N'85 East First Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1538, N'24 Rocky Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1539, N'11 Second Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1540, N'949 Second Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1541, N'559 Second Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1542, N'458 Green Second Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1543, N'548 Green Second Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1544, N'313 South Nobel Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1545, N'66 North Nobel Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1546, N'91 Green Second Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1547, N'13 Rocky Oak Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1548, N'838 West Nobel Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1549, NULL, NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1550, N'503 North Old Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1551, N'767 White Clarendon Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1552, N'395 West Oak Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1553, N'642 First Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1554, NULL, NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1555, N'65 South Second Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1556, N'33 North Fabien St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1557, N'13 Fabien Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1558, N'669 White Hague Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1559, N'420 Green Old Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1560, N'71 Hague Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1561, N'38 Rocky Oak Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1562, N'18 Oak Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1563, N'263 West Milton Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1564, N'46 East Nobel Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1565, N'569 West Green Second Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1566, N'38 New St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1567, N'82 Clarendon Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1568, N'13 Fabien Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1569, N'65 Green New St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1570, N'52 First Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1571, N'72 Cowley Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1572, N'409 South Green Old St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1573, N'98 Second Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1574, N'595 Green Nobel Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1575, N'56 White Old Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1576, N'803 Clarendon St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1577, N'73 North White Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1578, N'493 Second St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1579, N'80 White Hague St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1580, N'65 Rocky New Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1581, N'77 Clarendon Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1582, N'70 East First Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1583, N'33 Fabien Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1584, N'931 White Oak Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1585, N'87 Clarendon Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1586, N'146 East Nobel Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1587, N'59 East Rocky First Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1588, N'81 Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1589, N'47 South White Milton Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1590, N'970 North Rocky Old Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1591, N'92 Rocky Cowley Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1592, N'314 Green Second St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1593, N'99 South Green Nobel St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1594, N'255 Clarendon Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1595, N'818 Oak Street', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1596, N'61 White Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1597, N'710 Clarendon Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1598, N'418 Second Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1599, N'568 New Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1600, N'86 Second Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1601, N'85 South Rocky Oak Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1602, N'15 New Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1603, N'21 Old Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1604, N'46 South White Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1605, N'79 Milton Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1606, N'989 Oak Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1607, N'98 Second Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1608, N'70 West Green Oak Boulevard', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1609, N'135 East Milton St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1610, N'64 New Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1611, N'13 West Cowley Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1612, N'58 Hague Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1613, N'71 East Fabien Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1614, N'908 Rocky Hague Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1615, N'58 New Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1616, N'724 Rocky Old Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1617, N'57 Rocky Old Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1618, N'79 Green Old Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1619, N'84 North Rocky Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1620, N'662 Old St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1621, N'354 Second Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1622, N'52 Rocky Fabien Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1623, N'400 First Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1624, N'50 Rocky Fabien Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1625, N'41 Rocky Nobel Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1626, N'63 Hague Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1627, N'51 Clarendon Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1628, N'73 Clarendon Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1629, N'16 Rocky Old Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1630, N'293 Old Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1631, N'481 South Old Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1632, N'71 Rocky Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1633, N'84 Old Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1634, N'75 First Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1635, N'867 Green Cowley Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1636, N'390 Rocky First Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1637, N'79 Oak Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1638, N'547 White Milton Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1639, N'271 White Old Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1640, N'342 Clarendon Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1641, N'98 Second Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1642, N'21 Green First Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1643, N'16 Second Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1644, N'10 Green Clarendon Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1645, N'510 East Green Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1646, N'26 White Nobel Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1647, N'892 White Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1648, N'21 Green Milton Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1649, N'71 Green New Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1650, N'879 Hague Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1651, N'816 Rocky First Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1652, N'328 Nobel Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1653, N'36 Old Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1654, N'807 White First Street', NULL, N'Quận 10', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1655, N'76 Green New Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1656, N'653 New Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1657, N'714 East White Old St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1658, N'23 West Clarendon Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1659, N'540 West Clarendon Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1660, N'991 Second Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1661, N'161 First Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1662, N'97 East Clarendon Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1663, N'84 Nobel Street', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1664, N'607 Hague Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1665, N'73 Green Milton Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1666, N'50 East Old Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1667, N'46 Fabien Way', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1668, N'444 Old Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1669, N'43 East White Nobel Boulevard', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1670, N'991 Old Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1671, N'93 North Rocky First Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1672, N'41 Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1673, N'50 North Second Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1674, N'23 Clarendon Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1675, N'978 West Fabien Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1676, N'722 West Rocky Second Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1677, N'675 East Nobel Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1678, N'60 Clarendon Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1679, N'910 Green Hague Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1680, N'592 Milton Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1681, N'475 New Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1682, N'12 Second Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1683, N'962 First Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1684, N'17 Green Clarendon Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1685, N'826 Second Street', N'1', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 1686, N'34 Green Fabien Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1687, N'940 Milton Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1688, N'76 Fabien Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1689, N'444 Green Fabien St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1690, N'533 Clarendon Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1691, N'42 Fabien Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1692, N'16 East Rocky Old Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1693, N'884 East Fabien Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1694, N'99 New Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1695, N'62 Cowley Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1696, N'96 Rocky Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1697, N'74 White Nobel Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1698, N'513 Rocky New Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1699, N'761 Cowley St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1700, N'25 East First Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1701, N'623 North Oak Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1702, N'466 Hague Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1703, N'632 Rocky First Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1704, N'96 Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1705, N'93 Rocky First Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1706, N'680 Cowley Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1707, N'776 East Old Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1708, N'53 Oak Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1709, N'516 Old Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1710, N'43 Old Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1711, N'809 Rocky Hague Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1712, N'46 White Hague Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1713, N'969 Old Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1714, N'122 Green New Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1715, N'730 Hague Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1716, N'90 South White First Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1717, N'365 East Nobel Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1718, N'96 South Rocky Old Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1719, N'41 Green Hague Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1720, N'746 East Hague Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1721, N'27 White First Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1722, N'11 Green Clarendon Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1723, N'32 North White Fabien Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1724, N'24 Oak St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1725, N'85 Green Milton Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1726, N'418 South Cowley Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1727, N'405 Milton Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1728, N'99 First Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1729, N'84 Clarendon Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1730, N'46 West Rocky Milton Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1731, N'91 East Milton Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1732, N'56 Green Hague Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1733, N'76 East Clarendon Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1734, N'69 Cowley Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1735, N'72 White Cowley Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1736, N'91 New Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1737, N'77 New Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1738, N'76 South First Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1739, N'57 Fabien Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1740, N'92 Rocky Second Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1741, N'15 North Rocky Cowley Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1742, N'841 Green Nobel Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1743, N'186 Rocky Clarendon Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1744, N'176 Hague Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1745, N'83 Clarendon Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1746, N'101 Old Road', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1747, N'67 Clarendon Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1748, N'59 North Clarendon Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1749, N'812 Cowley Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1750, N'660 New Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1751, N'44 East White Fabien Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1752, N'62 West Clarendon Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1753, N'27 Oak Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1754, N'955 South White Nobel Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1755, N'270 South White Clarendon St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1756, N'517 Old Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1757, N'66 White Cowley Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1758, N'940 New Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1759, N'41 Rocky Fabien Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1760, N'505 Cowley St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1761, N'41 North Nobel Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1762, N'126 West Rocky Old Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1763, N'41 New Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1764, N'64 Fabien Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1765, N'88 New Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1766, N'181 White Oak Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1767, N'91 Fabien St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1768, N'59 Rocky Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1769, N'88 West Milton St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1770, N'660 North Rocky Cowley St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1771, N'224 First Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1772, N'557 White Oak Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1773, N'17 First Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1774, N'301 West Rocky Hague Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1775, N'52 Fabien Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1776, N'302 Cowley Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1777, N'594 Old Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1778, N'55 Second St.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1779, N'28 Old Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1780, N'30 Rocky Fabien Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1781, N'862 Hague Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1782, N'337 New Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1783, N'579 First Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1784, N'18 Green Oak Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1785, N'60 White Hague Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1786, N'23 East Milton St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1787, N'370 Clarendon Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1788, N'140 Nobel Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1789, N'46 Cowley Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1790, N'168 West Rocky Nobel Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1791, N'14 South Green Second Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1792, N'39 Second Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1793, N'35 West Nobel Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1794, N'52 East Green Oak Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1795, N'94 White Clarendon Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1796, N'41 Green Fabien Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1797, N'957 East Fabien Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1798, N'961 West Hague Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1799, N'92 Green New Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1800, N'92 South Rocky Hague Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1801, N'890 Green New Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1802, N'529 Rocky First Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1803, N'44 First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1804, N'58 Green New Parkway', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1805, N'61 New Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1806, N'15 Milton Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1807, N'637 Rocky Old Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1808, N'33 Fabien Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1809, N'360 East Second Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1810, N'781 Clarendon Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1811, N'715 South Hague Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1812, N'681 Oak Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1813, N'90 Oak Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1814, N'84 Green New Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1815, N'51 East Green Cowley Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1816, N'18 Second Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1817, N'177 White Cowley Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1818, N'98 Rocky Cowley Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1819, N'96 Oak Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1820, N'70 South First Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1821, N'34 South Cowley St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1822, N'673 Rocky Hague Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1823, N'85 White Second Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1824, N'14 Second Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1825, N'10 Fabien Freeway', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1826, N'21 North First Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1827, N'21 Old Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1828, N'305 White Second Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1829, N'663 North Nobel Street', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1830, N'82 North Oak Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1831, N'178 New St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1832, N'41 White Second Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1833, N'30 Green Fabien Parkway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1834, N'58 Cowley Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1835, N'21 Oak Parkway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1836, N'25 Green Nobel Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1837, N'18 Nobel Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1838, N'70 Oak Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1839, N'96 North Oak St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1840, N'86 First Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1841, N'848 Milton Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1842, N'457 Oak Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1843, N'30 East Nobel Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1844, N'454 East White First Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1845, N'83 Green Clarendon St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1846, N'617 Green Fabien Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1847, N'65 Green Fabien Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1848, N'942 North Oak Avenue', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1849, N'389 Fabien Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1850, N'634 White First Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1851, N'647 Fabien Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1852, N'315 Green Old St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1853, N'263 East Green Milton Way', NULL, N'Quận Thủ Đức', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1854, N'134 East New Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1855, N'39 White Hague Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1856, N'76 Rocky Clarendon Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1857, N'739 Nobel Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1858, N'12 White Cowley Street', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1859, N'217 Green Second Road', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1860, N'567 Second Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1861, N'82 South New Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1862, N'975 Clarendon Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1863, N'92 White Oak Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1864, N'243 South New Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1865, N'83 White Clarendon St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1866, N'54 South White Second Street', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1867, N'56 South Clarendon Freeway', NULL, N'Quận 1', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1868, N'14 East Green Oak Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1869, N'210 Clarendon Road', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1870, N'72 Rocky Milton Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1871, N'440 Old Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1872, N'18 Green Second St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1873, N'491 Old Drive', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1874, N'57 White Second Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1875, N'90 Green Old Boulevard', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1876, N'61 West Clarendon Way', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1877, N'175 West Rocky Clarendon Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1878, N'871 Green Fabien Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1879, N'632 West Nobel St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1880, N'292 Rocky Nobel Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1881, N'20 South First Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1882, N'35 West Green Cowley Blvd.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1883, N'900 Green Cowley Freeway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1884, N'538 White Fabien Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1885, N'624 West Rocky First Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1886, N'18 White Cowley Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1887, N'461 Old Street', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1888, N'321 Cowley Street', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1889, N'57 Green Nobel Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1890, N'678 South Milton Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1891, N'662 Hague Road', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1892, N'31 Rocky Old Blvd.', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1893, N'413 New Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1894, N'33 New Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1895, NULL, NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1896, N'119 Hague Avenue', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1897, N'495 New St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1898, N'55 North Rocky Second Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1899, N'14 East Old Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1900, N'82 Green First St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1901, N'81 South Green Clarendon Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1902, N'94 South Green Second St.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1903, NULL, NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1904, N'705 West White First Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1905, N'94 Oak Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1906, N'69 Old Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1907, N'816 Fabien St.', NULL, N'Quận Tân Bình', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1908, N'14 Nobel Street', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1909, N'421 Milton Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1910, N'201 North White Oak Way', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1911, N'82 Green Cowley Drive', NULL, NULL, N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1912, N'763 Hague Way', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1913, N'72 South White New Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1914, N'156 New Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1915, N'91 Cowley Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1916, N'937 White Hague Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1917, N'70 Old Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1918, N'620 Green Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1919, N'333 White Old Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1920, N'365 First Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1921, N'42 South Second Avenue', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1922, N'172 White Oak Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1923, N'103 Green Oak Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1924, N'17 Fabien Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1925, N'171 Rocky First Freeway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1926, N'87 Hague Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1927, N'72 First Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1928, N'843 Hague St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1929, N'225 Rocky First Way', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1930, N'545 Fabien Parkway', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1931, N'76 South Rocky Cowley Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1932, N'37 Green First Road', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1933, N'39 White Hague Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1934, N'195 Clarendon Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1935, N'12 West Rocky Second Avenue', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1936, N'42 Old Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1937, N'95 White Milton Way', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1938, N'35 East Milton Drive', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1939, N'858 First Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1940, N'370 New St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1941, N'754 New Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1942, N'880 North Second Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1943, N'83 West Green Oak Freeway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1944, N'51 Old Freeway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1945, N'18 New Drive', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1946, N'721 Hague Way', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1947, N'401 Clarendon St.', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1948, N'997 Rocky Milton Boulevard', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1949, N'71 Nobel St.', NULL, N'Quận 5', NULL )
+INSERT INTO DIACHIKH
+VALUES
+( 1950, N'51 Hague Boulevard', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1951, N'26 West Green Milton St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1952, N'53 Hague Freeway', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1953, N'184 West White Cowley Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1954, N'384 White Clarendon Parkway', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1955, N'58 White Fabien Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1956, N'636 Green Cowley Drive', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1957, N'106 West Fabien Avenue', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1958, N'76 Green New Road', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1959, N'22 Milton Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1960, N'768 Milton Freeway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1961, N'24 West New Way', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1962, N'61 Rocky Oak St.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1963, N'78 Rocky Milton Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1964, N'25 New Way', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1965, N'582 Green Oak Drive', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1966, N'30 New Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1967, N'42 Clarendon Boulevard', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1968, N'72 Oak Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1969, N'212 Cowley Road', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1970, N'188 New Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1971, N'69 East Green New Road', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1972, N'88 Cowley St.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1973, N'89 Green First Blvd.', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1974, N'81 Green Fabien Parkway', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1975, N'265 North Green Nobel Blvd.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1976, N'695 Green Nobel St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1977, N'41 West Green Second Avenue', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1978, N'613 Second Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1979, N'65 Clarendon Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1980, N'11 Rocky Milton Parkway', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1981, N'94 Green Second St.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1982, N'162 West Fabien Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1983, N'48 Oak Freeway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1984, N'99 First Blvd.', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1985, N'57 Nobel Drive', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1986, N'52 Green Fabien Street', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1987, N'84 Milton Drive', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1988, N'22 Green Fabien Freeway', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1989, N'776 White Second St.', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1990, N'20 North Nobel St.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1991, N'621 Green New Drive', NULL, N'Quận 5', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1992, N'46 Fabien Boulevard', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1993, N'58 South Oak Parkway', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1994, N'751 White Cowley Boulevard', NULL, N'Quận 1', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1995, N'238 Second Blvd.', NULL, N'Quận 3', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1996, N'38 West Second Parkway', NULL, N'Quận 2', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1997, N'510 North Rocky Second Avenue', NULL, N'Quận Tân Bình', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1998, N'41 Fabien Blvd.', NULL, N'Quận Thủ Đức', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 1999, N'80 White New Blvd.', NULL, N'Quận 10', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 2000, N'81 Green Clarendon Boulevard', NULL, N'Quận Bình Thạnh', N'TP HCM' )
+INSERT INTO DIACHIKH
+VALUES
+( 2001, N'Đường số2001', N'Phường 2001', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2002, N'Đường số2002', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2003, N'Đường số2003', N'Phường 2003', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2004, N'Đường số2004', N'Phường 2004', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2005, N'Đường số2005', N'Phường 2005', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2006, N'Đường số2006', N'Phường 2006', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2007, N'Đường số2007', N'Phường 2007', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2008, N'Đường số2008', N'Phường 2008', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2009, N'Đường số2009', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2010, N'Đường số2010', N'Phường 2010', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2011, N'Đường số2011', N'Phường 2011', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2012, N'Đường số2012', N'Phường 2012', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2013, N'Đường số2013', N'Phường 2013', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2014, N'Đường số2014', N'Phường 2014', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2015, N'Đường số2015', N'Phường 2015', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2016, N'Đường số2016', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2017, N'Đường số2017', N'Phường 2017', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2018, N'Đường số2018', N'Phường 2018', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2019, N'Đường số2019', N'Phường 2019', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2020, N'Đường số2020', N'Phường 2020', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2021, N'Đường số2021', N'Phường 2021', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2022, N'Đường số2022', N'Phường 2022', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2023, N'Đường số2023', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2024, N'Đường số2024', N'Phường 2024', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2025, N'Đường số2025', N'Phường 2025', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2026, N'Đường số2026', N'Phường 2026', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2027, N'Đường số2027', N'Phường 2027', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2028, N'Đường số2028', N'Phường 2028', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2029, N'Đường số2029', N'Phường 2029', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2030, N'Đường số2030', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2031, N'Đường số2031', N'Phường 2031', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2032, N'Đường số2032', N'Phường 2032', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2033, N'Đường số2033', N'Phường 2033', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2034, N'Đường số2034', N'Phường 2034', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2035, N'Đường số2035', N'Phường 2035', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2036, N'Đường số2036', N'Phường 2036', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2037, N'Đường số2037', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2038, N'Đường số2038', N'Phường 2038', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2039, N'Đường số2039', N'Phường 2039', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2040, N'Đường số2040', N'Phường 2040', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2041, N'Đường số2041', N'Phường 2041', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2042, N'Đường số2042', N'Phường 2042', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2043, N'Đường số2043', N'Phường 2043', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2044, N'Đường số2044', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2045, N'Đường số2045', N'Phường 2045', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2046, N'Đường số2046', N'Phường 2046', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2047, N'Đường số2047', N'Phường 2047', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2048, N'Đường số2048', N'Phường 2048', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2049, N'Đường số2049', N'Phường 2049', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2050, N'Đường số2050', N'Phường 2050', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2051, N'Đường số2051', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2052, N'Đường số2052', N'Phường 2052', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2053, N'Đường số2053', N'Phường 2053', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2054, N'Đường số2054', N'Phường 2054', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2055, N'Đường số2055', N'Phường 2055', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2056, N'Đường số2056', N'Phường 2056', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2057, N'Đường số2057', N'Phường 2057', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2058, N'Đường số2058', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2059, N'Đường số2059', N'Phường 2059', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2060, N'Đường số2060', N'Phường 2060', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2061, N'Đường số2061', N'Phường 2061', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2062, N'Đường số2062', N'Phường 2062', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2063, N'Đường số2063', N'Phường 2063', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2064, N'Đường số2064', N'Phường 2064', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2065, N'Đường số2065', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2066, N'Đường số2066', N'Phường 2066', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2067, N'Đường số2067', N'Phường 2067', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2068, N'Đường số2068', N'Phường 2068', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2069, N'Đường số2069', N'Phường 2069', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2070, N'Đường số2070', N'Phường 2070', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2071, N'Đường số2071', N'Phường 2071', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2072, N'Đường số2072', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2073, N'Đường số2073', N'Phường 2073', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2074, N'Đường số2074', N'Phường 2074', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2075, N'Đường số2075', N'Phường 2075', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2076, N'Đường số2076', N'Phường 2076', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2077, N'Đường số2077', N'Phường 2077', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2078, N'Đường số2078', N'Phường 2078', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2079, N'Đường số2079', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2080, N'Đường số2080', N'Phường 2080', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2081, N'Đường số2081', N'Phường 2081', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2082, N'Đường số2082', N'Phường 2082', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2083, N'Đường số2083', N'Phường 2083', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2084, N'Đường số2084', N'Phường 2084', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2085, N'Đường số2085', N'Phường 2085', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2086, N'Đường số2086', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2087, N'Đường số2087', N'Phường 2087', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2088, N'Đường số2088', N'Phường 2088', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2089, N'Đường số2089', N'Phường 2089', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2090, N'Đường số2090', N'Phường 2090', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2091, N'Đường số2091', N'Phường 2091', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2092, N'Đường số2092', N'Phường 2092', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2093, N'Đường số2093', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2094, N'Đường số2094', N'Phường 2094', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2095, N'Đường số2095', N'Phường 2095', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2096, N'Đường số2096', N'Phường 2096', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2097, N'Đường số2097', N'Phường 2097', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2098, N'Đường số2098', N'Phường 2098', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2099, N'Đường số2099', N'Phường 2099', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2100, N'Đường số2100', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2101, N'Đường số2101', N'Phường 2101', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2102, N'Đường số2102', N'Phường 2102', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2103, N'Đường số2103', N'Phường 2103', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2104, N'Đường số2104', N'Phường 2104', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2105, N'Đường số2105', N'Phường 2105', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2106, N'Đường số2106', N'Phường 2106', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2107, N'Đường số2107', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2108, N'Đường số2108', N'Phường 2108', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2109, N'Đường số2109', N'Phường 2109', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2110, N'Đường số2110', N'Phường 2110', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2111, N'Đường số2111', N'Phường 2111', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2112, N'Đường số2112', N'Phường 2112', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2113, N'Đường số2113', N'Phường 2113', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2114, N'Đường số2114', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2115, N'Đường số2115', N'Phường 2115', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2116, N'Đường số2116', N'Phường 2116', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2117, N'Đường số2117', N'Phường 2117', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2118, N'Đường số2118', N'Phường 2118', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2119, N'Đường số2119', N'Phường 2119', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2120, N'Đường số2120', N'Phường 2120', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2121, N'Đường số2121', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2122, N'Đường số2122', N'Phường 2122', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2123, N'Đường số2123', N'Phường 2123', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2124, N'Đường số2124', N'Phường 2124', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2125, N'Đường số2125', N'Phường 2125', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2126, N'Đường số2126', N'Phường 2126', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2127, N'Đường số2127', N'Phường 2127', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2128, N'Đường số2128', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2129, N'Đường số2129', N'Phường 2129', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2130, N'Đường số2130', N'Phường 2130', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2131, N'Đường số2131', N'Phường 2131', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2132, N'Đường số2132', N'Phường 2132', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2133, N'Đường số2133', N'Phường 2133', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2134, N'Đường số2134', N'Phường 2134', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2135, N'Đường số2135', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2136, N'Đường số2136', N'Phường 2136', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2137, N'Đường số2137', N'Phường 2137', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2138, N'Đường số2138', N'Phường 2138', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2139, N'Đường số2139', N'Phường 2139', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2140, N'Đường số2140', N'Phường 2140', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2141, N'Đường số2141', N'Phường 2141', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2142, N'Đường số2142', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2143, N'Đường số2143', N'Phường 2143', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2144, N'Đường số2144', N'Phường 2144', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2145, N'Đường số2145', N'Phường 2145', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2146, N'Đường số2146', N'Phường 2146', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2147, N'Đường số2147', N'Phường 2147', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2148, N'Đường số2148', N'Phường 2148', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2149, N'Đường số2149', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2150, N'Đường số2150', N'Phường 2150', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2151, N'Đường số2151', N'Phường 2151', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2152, N'Đường số2152', N'Phường 2152', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2153, N'Đường số2153', N'Phường 2153', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2154, N'Đường số2154', N'Phường 2154', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2155, N'Đường số2155', N'Phường 2155', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2156, N'Đường số2156', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2157, N'Đường số2157', N'Phường 2157', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2158, N'Đường số2158', N'Phường 2158', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2159, N'Đường số2159', N'Phường 2159', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2160, N'Đường số2160', N'Phường 2160', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2161, N'Đường số2161', N'Phường 2161', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2162, N'Đường số2162', N'Phường 2162', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2163, N'Đường số2163', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2164, N'Đường số2164', N'Phường 2164', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2165, N'Đường số2165', N'Phường 2165', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2166, N'Đường số2166', N'Phường 2166', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2167, N'Đường số2167', N'Phường 2167', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2168, N'Đường số2168', N'Phường 2168', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2169, N'Đường số2169', N'Phường 2169', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2170, N'Đường số2170', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2171, N'Đường số2171', N'Phường 2171', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2172, N'Đường số2172', N'Phường 2172', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2173, N'Đường số2173', N'Phường 2173', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2174, N'Đường số2174', N'Phường 2174', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2175, N'Đường số2175', N'Phường 2175', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2176, N'Đường số2176', N'Phường 2176', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2177, N'Đường số2177', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2178, N'Đường số2178', N'Phường 2178', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2179, N'Đường số2179', N'Phường 2179', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2180, N'Đường số2180', N'Phường 2180', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2181, N'Đường số2181', N'Phường 2181', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2182, N'Đường số2182', N'Phường 2182', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2183, N'Đường số2183', N'Phường 2183', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2184, N'Đường số2184', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2185, N'Đường số2185', N'Phường 2185', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2186, N'Đường số2186', N'Phường 2186', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2187, N'Đường số2187', N'Phường 2187', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2188, N'Đường số2188', N'Phường 2188', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2189, N'Đường số2189', N'Phường 2189', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2190, N'Đường số2190', N'Phường 2190', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2191, N'Đường số2191', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2192, N'Đường số2192', N'Phường 2192', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2193, N'Đường số2193', N'Phường 2193', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2194, N'Đường số2194', N'Phường 2194', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2195, N'Đường số2195', N'Phường 2195', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2196, N'Đường số2196', N'Phường 2196', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2197, N'Đường số2197', N'Phường 2197', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2198, N'Đường số2198', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2199, N'Đường số2199', N'Phường 2199', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2200, N'Đường số2200', N'Phường 2200', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2201, N'Đường số2201', N'Phường 2201', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2202, N'Đường số2202', N'Phường 2202', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2203, N'Đường số2203', N'Phường 2203', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2204, N'Đường số2204', N'Phường 2204', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2205, N'Đường số2205', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2206, N'Đường số2206', N'Phường 2206', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2207, N'Đường số2207', N'Phường 2207', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2208, N'Đường số2208', N'Phường 2208', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2209, N'Đường số2209', N'Phường 2209', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2210, N'Đường số2210', N'Phường 2210', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2211, N'Đường số2211', N'Phường 2211', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2212, N'Đường số2212', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2213, N'Đường số2213', N'Phường 2213', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2214, N'Đường số2214', N'Phường 2214', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2215, N'Đường số2215', N'Phường 2215', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2216, N'Đường số2216', N'Phường 2216', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2217, N'Đường số2217', N'Phường 2217', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2218, N'Đường số2218', N'Phường 2218', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2219, N'Đường số2219', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2220, N'Đường số2220', N'Phường 2220', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2221, N'Đường số2221', N'Phường 2221', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2222, N'Đường số2222', N'Phường 2222', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2223, N'Đường số2223', N'Phường 2223', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2224, N'Đường số2224', N'Phường 2224', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2225, N'Đường số2225', N'Phường 2225', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2226, N'Đường số2226', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2227, N'Đường số2227', N'Phường 2227', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2228, N'Đường số2228', N'Phường 2228', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2229, N'Đường số2229', N'Phường 2229', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2230, N'Đường số2230', N'Phường 2230', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2231, N'Đường số2231', N'Phường 2231', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2232, N'Đường số2232', N'Phường 2232', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2233, N'Đường số2233', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2234, N'Đường số2234', N'Phường 2234', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2235, N'Đường số2235', N'Phường 2235', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2236, N'Đường số2236', N'Phường 2236', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2237, N'Đường số2237', N'Phường 2237', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2238, N'Đường số2238', N'Phường 2238', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2239, N'Đường số2239', N'Phường 2239', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2240, N'Đường số2240', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2241, N'Đường số2241', N'Phường 2241', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2242, N'Đường số2242', N'Phường 2242', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2243, N'Đường số2243', N'Phường 2243', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2244, N'Đường số2244', N'Phường 2244', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2245, N'Đường số2245', N'Phường 2245', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2246, N'Đường số2246', N'Phường 2246', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2247, N'Đường số2247', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2248, N'Đường số2248', N'Phường 2248', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2249, N'Đường số2249', N'Phường 2249', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2250, N'Đường số2250', N'Phường 2250', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2251, N'Đường số2251', N'Phường 2251', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2252, N'Đường số2252', N'Phường 2252', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2253, N'Đường số2253', N'Phường 2253', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2254, N'Đường số2254', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2255, N'Đường số2255', N'Phường 2255', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2256, N'Đường số2256', N'Phường 2256', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2257, N'Đường số2257', N'Phường 2257', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2258, N'Đường số2258', N'Phường 2258', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2259, N'Đường số2259', N'Phường 2259', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2260, N'Đường số2260', N'Phường 2260', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2261, N'Đường số2261', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2262, N'Đường số2262', N'Phường 2262', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2263, N'Đường số2263', N'Phường 2263', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2264, N'Đường số2264', N'Phường 2264', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2265, N'Đường số2265', N'Phường 2265', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2266, N'Đường số2266', N'Phường 2266', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2267, N'Đường số2267', N'Phường 2267', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2268, N'Đường số2268', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2269, N'Đường số2269', N'Phường 2269', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2270, N'Đường số2270', N'Phường 2270', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2271, N'Đường số2271', N'Phường 2271', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2272, N'Đường số2272', N'Phường 2272', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2273, N'Đường số2273', N'Phường 2273', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2274, N'Đường số2274', N'Phường 2274', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2275, N'Đường số2275', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2276, N'Đường số2276', N'Phường 2276', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2277, N'Đường số2277', N'Phường 2277', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2278, N'Đường số2278', N'Phường 2278', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2279, N'Đường số2279', N'Phường 2279', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2280, N'Đường số2280', N'Phường 2280', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2281, N'Đường số2281', N'Phường 2281', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2282, N'Đường số2282', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2283, N'Đường số2283', N'Phường 2283', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2284, N'Đường số2284', N'Phường 2284', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2285, N'Đường số2285', N'Phường 2285', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2286, N'Đường số2286', N'Phường 2286', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2287, N'Đường số2287', N'Phường 2287', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2288, N'Đường số2288', N'Phường 2288', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2289, N'Đường số2289', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2290, N'Đường số2290', N'Phường 2290', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2291, N'Đường số2291', N'Phường 2291', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2292, N'Đường số2292', N'Phường 2292', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2293, N'Đường số2293', N'Phường 2293', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2294, N'Đường số2294', N'Phường 2294', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2295, N'Đường số2295', N'Phường 2295', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2296, N'Đường số2296', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2297, N'Đường số2297', N'Phường 2297', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2298, N'Đường số2298', N'Phường 2298', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2299, N'Đường số2299', N'Phường 2299', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2300, N'Đường số2300', N'Phường 2300', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2301, N'Đường số2301', N'Phường 2301', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2302, N'Đường số2302', N'Phường 2302', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2303, N'Đường số2303', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2304, N'Đường số2304', N'Phường 2304', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2305, N'Đường số2305', N'Phường 2305', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2306, N'Đường số2306', N'Phường 2306', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2307, N'Đường số2307', N'Phường 2307', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2308, N'Đường số2308', N'Phường 2308', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2309, N'Đường số2309', N'Phường 2309', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2310, N'Đường số2310', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2311, N'Đường số2311', N'Phường 2311', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2312, N'Đường số2312', N'Phường 2312', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2313, N'Đường số2313', N'Phường 2313', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2314, N'Đường số2314', N'Phường 2314', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2315, N'Đường số2315', N'Phường 2315', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2316, N'Đường số2316', N'Phường 2316', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2317, N'Đường số2317', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2318, N'Đường số2318', N'Phường 2318', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2319, N'Đường số2319', N'Phường 2319', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2320, N'Đường số2320', N'Phường 2320', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2321, N'Đường số2321', N'Phường 2321', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2322, N'Đường số2322', N'Phường 2322', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2323, N'Đường số2323', N'Phường 2323', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2324, N'Đường số2324', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2325, N'Đường số2325', N'Phường 2325', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2326, N'Đường số2326', N'Phường 2326', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2327, N'Đường số2327', N'Phường 2327', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2328, N'Đường số2328', N'Phường 2328', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2329, N'Đường số2329', N'Phường 2329', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2330, N'Đường số2330', N'Phường 2330', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2331, N'Đường số2331', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2332, N'Đường số2332', N'Phường 2332', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2333, N'Đường số2333', N'Phường 2333', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2334, N'Đường số2334', N'Phường 2334', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2335, N'Đường số2335', N'Phường 2335', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2336, N'Đường số2336', N'Phường 2336', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2337, N'Đường số2337', N'Phường 2337', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2338, N'Đường số2338', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2339, N'Đường số2339', N'Phường 2339', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2340, N'Đường số2340', N'Phường 2340', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2341, N'Đường số2341', N'Phường 2341', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2342, N'Đường số2342', N'Phường 2342', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2343, N'Đường số2343', N'Phường 2343', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2344, N'Đường số2344', N'Phường 2344', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2345, N'Đường số2345', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2346, N'Đường số2346', N'Phường 2346', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2347, N'Đường số2347', N'Phường 2347', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2348, N'Đường số2348', N'Phường 2348', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2349, N'Đường số2349', N'Phường 2349', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2350, N'Đường số2350', N'Phường 2350', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2351, N'Đường số2351', N'Phường 2351', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2352, N'Đường số2352', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2353, N'Đường số2353', N'Phường 2353', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2354, N'Đường số2354', N'Phường 2354', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2355, N'Đường số2355', N'Phường 2355', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2356, N'Đường số2356', N'Phường 2356', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2357, N'Đường số2357', N'Phường 2357', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2358, N'Đường số2358', N'Phường 2358', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2359, N'Đường số2359', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2360, N'Đường số2360', N'Phường 2360', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2361, N'Đường số2361', N'Phường 2361', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2362, N'Đường số2362', N'Phường 2362', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2363, N'Đường số2363', N'Phường 2363', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2364, N'Đường số2364', N'Phường 2364', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2365, N'Đường số2365', N'Phường 2365', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2366, N'Đường số2366', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2367, N'Đường số2367', N'Phường 2367', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2368, N'Đường số2368', N'Phường 2368', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2369, N'Đường số2369', N'Phường 2369', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2370, N'Đường số2370', N'Phường 2370', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2371, N'Đường số2371', N'Phường 2371', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2372, N'Đường số2372', N'Phường 2372', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2373, N'Đường số2373', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2374, N'Đường số2374', N'Phường 2374', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2375, N'Đường số2375', N'Phường 2375', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2376, N'Đường số2376', N'Phường 2376', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2377, N'Đường số2377', N'Phường 2377', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2378, N'Đường số2378', N'Phường 2378', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2379, N'Đường số2379', N'Phường 2379', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2380, N'Đường số2380', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2381, N'Đường số2381', N'Phường 2381', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2382, N'Đường số2382', N'Phường 2382', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2383, N'Đường số2383', N'Phường 2383', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2384, N'Đường số2384', N'Phường 2384', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2385, N'Đường số2385', N'Phường 2385', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2386, N'Đường số2386', N'Phường 2386', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2387, N'Đường số2387', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2388, N'Đường số2388', N'Phường 2388', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2389, N'Đường số2389', N'Phường 2389', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2390, N'Đường số2390', N'Phường 2390', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2391, N'Đường số2391', N'Phường 2391', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2392, N'Đường số2392', N'Phường 2392', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2393, N'Đường số2393', N'Phường 2393', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2394, N'Đường số2394', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2395, N'Đường số2395', N'Phường 2395', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2396, N'Đường số2396', N'Phường 2396', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2397, N'Đường số2397', N'Phường 2397', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2398, N'Đường số2398', N'Phường 2398', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2399, N'Đường số2399', N'Phường 2399', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2400, N'Đường số2400', N'Phường 2400', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2401, N'Đường số2401', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2402, N'Đường số2402', N'Phường 2402', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2403, N'Đường số2403', N'Phường 2403', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2404, N'Đường số2404', N'Phường 2404', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2405, N'Đường số2405', N'Phường 2405', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2406, N'Đường số2406', N'Phường 2406', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2407, N'Đường số2407', N'Phường 2407', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2408, N'Đường số2408', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2409, N'Đường số2409', N'Phường 2409', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2410, N'Đường số2410', N'Phường 2410', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2411, N'Đường số2411', N'Phường 2411', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2412, N'Đường số2412', N'Phường 2412', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2413, N'Đường số2413', N'Phường 2413', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2414, N'Đường số2414', N'Phường 2414', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2415, N'Đường số2415', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2416, N'Đường số2416', N'Phường 2416', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2417, N'Đường số2417', N'Phường 2417', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2418, N'Đường số2418', N'Phường 2418', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2419, N'Đường số2419', N'Phường 2419', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2420, N'Đường số2420', N'Phường 2420', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2421, N'Đường số2421', N'Phường 2421', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2422, N'Đường số2422', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2423, N'Đường số2423', N'Phường 2423', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2424, N'Đường số2424', N'Phường 2424', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2425, N'Đường số2425', N'Phường 2425', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2426, N'Đường số2426', N'Phường 2426', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2427, N'Đường số2427', N'Phường 2427', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2428, N'Đường số2428', N'Phường 2428', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2429, N'Đường số2429', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2430, N'Đường số2430', N'Phường 2430', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2431, N'Đường số2431', N'Phường 2431', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2432, N'Đường số2432', N'Phường 2432', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2433, N'Đường số2433', N'Phường 2433', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2434, N'Đường số2434', N'Phường 2434', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2435, N'Đường số2435', N'Phường 2435', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2436, N'Đường số2436', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2437, N'Đường số2437', N'Phường 2437', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2438, N'Đường số2438', N'Phường 2438', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2439, N'Đường số2439', N'Phường 2439', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2440, N'Đường số2440', N'Phường 2440', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2441, N'Đường số2441', N'Phường 2441', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2442, N'Đường số2442', N'Phường 2442', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2443, N'Đường số2443', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2444, N'Đường số2444', N'Phường 2444', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2445, N'Đường số2445', N'Phường 2445', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2446, N'Đường số2446', N'Phường 2446', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2447, N'Đường số2447', N'Phường 2447', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2448, N'Đường số2448', N'Phường 2448', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2449, N'Đường số2449', N'Phường 2449', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2450, N'Đường số2450', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2451, N'Đường số2451', N'Phường 2451', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2452, N'Đường số2452', N'Phường 2452', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2453, N'Đường số2453', N'Phường 2453', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2454, N'Đường số2454', N'Phường 2454', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2455, N'Đường số2455', N'Phường 2455', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2456, N'Đường số2456', N'Phường 2456', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2457, N'Đường số2457', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2458, N'Đường số2458', N'Phường 2458', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2459, N'Đường số2459', N'Phường 2459', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2460, N'Đường số2460', N'Phường 2460', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2461, N'Đường số2461', N'Phường 2461', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2462, N'Đường số2462', N'Phường 2462', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2463, N'Đường số2463', N'Phường 2463', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2464, N'Đường số2464', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2465, N'Đường số2465', N'Phường 2465', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2466, N'Đường số2466', N'Phường 2466', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2467, N'Đường số2467', N'Phường 2467', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2468, N'Đường số2468', N'Phường 2468', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2469, N'Đường số2469', N'Phường 2469', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2470, N'Đường số2470', N'Phường 2470', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2471, N'Đường số2471', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2472, N'Đường số2472', N'Phường 2472', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2473, N'Đường số2473', N'Phường 2473', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2474, N'Đường số2474', N'Phường 2474', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2475, N'Đường số2475', N'Phường 2475', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2476, N'Đường số2476', N'Phường 2476', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2477, N'Đường số2477', N'Phường 2477', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2478, N'Đường số2478', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2479, N'Đường số2479', N'Phường 2479', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2480, N'Đường số2480', N'Phường 2480', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2481, N'Đường số2481', N'Phường 2481', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2482, N'Đường số2482', N'Phường 2482', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2483, N'Đường số2483', N'Phường 2483', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2484, N'Đường số2484', N'Phường 2484', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2485, N'Đường số2485', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2486, N'Đường số2486', N'Phường 2486', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2487, N'Đường số2487', N'Phường 2487', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2488, N'Đường số2488', N'Phường 2488', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2489, N'Đường số2489', N'Phường 2489', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2490, N'Đường số2490', N'Phường 2490', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2491, N'Đường số2491', N'Phường 2491', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2492, N'Đường số2492', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2493, N'Đường số2493', N'Phường 2493', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2494, N'Đường số2494', N'Phường 2494', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2495, N'Đường số2495', N'Phường 2495', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2496, N'Đường số2496', N'Phường 2496', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2497, N'Đường số2497', N'Phường 2497', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2498, N'Đường số2498', N'Phường 2498', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2499, N'Đường số2499', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2500, N'Đường số2500', N'Phường 2500', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2501, N'Đường số2501', N'Phường 2501', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2502, N'Đường số2502', N'Phường 2502', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2503, N'Đường số2503', N'Phường 2503', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2504, N'Đường số2504', N'Phường 2504', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2505, N'Đường số2505', N'Phường 2505', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2506, N'Đường số2506', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2507, N'Đường số2507', N'Phường 2507', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2508, N'Đường số2508', N'Phường 2508', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2509, N'Đường số2509', N'Phường 2509', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2510, N'Đường số2510', N'Phường 2510', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2511, N'Đường số2511', N'Phường 2511', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2512, N'Đường số2512', N'Phường 2512', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2513, N'Đường số2513', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2514, N'Đường số2514', N'Phường 2514', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2515, N'Đường số2515', N'Phường 2515', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2516, N'Đường số2516', N'Phường 2516', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2517, N'Đường số2517', N'Phường 2517', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2518, N'Đường số2518', N'Phường 2518', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2519, N'Đường số2519', N'Phường 2519', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2520, N'Đường số2520', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2521, N'Đường số2521', N'Phường 2521', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2522, N'Đường số2522', N'Phường 2522', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2523, N'Đường số2523', N'Phường 2523', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2524, N'Đường số2524', N'Phường 2524', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2525, N'Đường số2525', N'Phường 2525', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2526, N'Đường số2526', N'Phường 2526', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2527, N'Đường số2527', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2528, N'Đường số2528', N'Phường 2528', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2529, N'Đường số2529', N'Phường 2529', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2530, N'Đường số2530', N'Phường 2530', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2531, N'Đường số2531', N'Phường 2531', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2532, N'Đường số2532', N'Phường 2532', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2533, N'Đường số2533', N'Phường 2533', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2534, N'Đường số2534', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2535, N'Đường số2535', N'Phường 2535', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2536, N'Đường số2536', N'Phường 2536', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2537, N'Đường số2537', N'Phường 2537', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2538, N'Đường số2538', N'Phường 2538', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2539, N'Đường số2539', N'Phường 2539', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2540, N'Đường số2540', N'Phường 2540', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2541, N'Đường số2541', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2542, N'Đường số2542', N'Phường 2542', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2543, N'Đường số2543', N'Phường 2543', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2544, N'Đường số2544', N'Phường 2544', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2545, N'Đường số2545', N'Phường 2545', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2546, N'Đường số2546', N'Phường 2546', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2547, N'Đường số2547', N'Phường 2547', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2548, N'Đường số2548', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2549, N'Đường số2549', N'Phường 2549', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2550, N'Đường số2550', N'Phường 2550', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2551, N'Đường số2551', N'Phường 2551', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2552, N'Đường số2552', N'Phường 2552', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2553, N'Đường số2553', N'Phường 2553', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2554, N'Đường số2554', N'Phường 2554', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2555, N'Đường số2555', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2556, N'Đường số2556', N'Phường 2556', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2557, N'Đường số2557', N'Phường 2557', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2558, N'Đường số2558', N'Phường 2558', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2559, N'Đường số2559', N'Phường 2559', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2560, N'Đường số2560', N'Phường 2560', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2561, N'Đường số2561', N'Phường 2561', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2562, N'Đường số2562', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2563, N'Đường số2563', N'Phường 2563', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2564, N'Đường số2564', N'Phường 2564', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2565, N'Đường số2565', N'Phường 2565', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2566, N'Đường số2566', N'Phường 2566', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2567, N'Đường số2567', N'Phường 2567', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2568, N'Đường số2568', N'Phường 2568', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2569, N'Đường số2569', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2570, N'Đường số2570', N'Phường 2570', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2571, N'Đường số2571', N'Phường 2571', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2572, N'Đường số2572', N'Phường 2572', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2573, N'Đường số2573', N'Phường 2573', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2574, N'Đường số2574', N'Phường 2574', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2575, N'Đường số2575', N'Phường 2575', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2576, N'Đường số2576', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2577, N'Đường số2577', N'Phường 2577', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2578, N'Đường số2578', N'Phường 2578', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2579, N'Đường số2579', N'Phường 2579', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2580, N'Đường số2580', N'Phường 2580', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2581, N'Đường số2581', N'Phường 2581', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2582, N'Đường số2582', N'Phường 2582', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2583, N'Đường số2583', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2584, N'Đường số2584', N'Phường 2584', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2585, N'Đường số2585', N'Phường 2585', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2586, N'Đường số2586', N'Phường 2586', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2587, N'Đường số2587', N'Phường 2587', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2588, N'Đường số2588', N'Phường 2588', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2589, N'Đường số2589', N'Phường 2589', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2590, N'Đường số2590', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2591, N'Đường số2591', N'Phường 2591', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2592, N'Đường số2592', N'Phường 2592', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2593, N'Đường số2593', N'Phường 2593', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2594, N'Đường số2594', N'Phường 2594', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2595, N'Đường số2595', N'Phường 2595', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2596, N'Đường số2596', N'Phường 2596', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2597, N'Đường số2597', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2598, N'Đường số2598', N'Phường 2598', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2599, N'Đường số2599', N'Phường 2599', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2600, N'Đường số2600', N'Phường 2600', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2601, N'Đường số2601', N'Phường 2601', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2602, N'Đường số2602', N'Phường 2602', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2603, N'Đường số2603', N'Phường 2603', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2604, N'Đường số2604', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2605, N'Đường số2605', N'Phường 2605', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2606, N'Đường số2606', N'Phường 2606', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2607, N'Đường số2607', N'Phường 2607', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2608, N'Đường số2608', N'Phường 2608', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2609, N'Đường số2609', N'Phường 2609', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2610, N'Đường số2610', N'Phường 2610', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2611, N'Đường số2611', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2612, N'Đường số2612', N'Phường 2612', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2613, N'Đường số2613', N'Phường 2613', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2614, N'Đường số2614', N'Phường 2614', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2615, N'Đường số2615', N'Phường 2615', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2616, N'Đường số2616', N'Phường 2616', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2617, N'Đường số2617', N'Phường 2617', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2618, N'Đường số2618', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2619, N'Đường số2619', N'Phường 2619', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2620, N'Đường số2620', N'Phường 2620', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2621, N'Đường số2621', N'Phường 2621', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2622, N'Đường số2622', N'Phường 2622', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2623, N'Đường số2623', N'Phường 2623', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2624, N'Đường số2624', N'Phường 2624', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2625, N'Đường số2625', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2626, N'Đường số2626', N'Phường 2626', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2627, N'Đường số2627', N'Phường 2627', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2628, N'Đường số2628', N'Phường 2628', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2629, N'Đường số2629', N'Phường 2629', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2630, N'Đường số2630', N'Phường 2630', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2631, N'Đường số2631', N'Phường 2631', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2632, N'Đường số2632', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2633, N'Đường số2633', N'Phường 2633', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2634, N'Đường số2634', N'Phường 2634', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2635, N'Đường số2635', N'Phường 2635', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2636, N'Đường số2636', N'Phường 2636', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2637, N'Đường số2637', N'Phường 2637', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2638, N'Đường số2638', N'Phường 2638', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2639, N'Đường số2639', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2640, N'Đường số2640', N'Phường 2640', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2641, N'Đường số2641', N'Phường 2641', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2642, N'Đường số2642', N'Phường 2642', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2643, N'Đường số2643', N'Phường 2643', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2644, N'Đường số2644', N'Phường 2644', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2645, N'Đường số2645', N'Phường 2645', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2646, N'Đường số2646', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2647, N'Đường số2647', N'Phường 2647', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2648, N'Đường số2648', N'Phường 2648', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2649, N'Đường số2649', N'Phường 2649', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2650, N'Đường số2650', N'Phường 2650', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2651, N'Đường số2651', N'Phường 2651', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2652, N'Đường số2652', N'Phường 2652', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2653, N'Đường số2653', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2654, N'Đường số2654', N'Phường 2654', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2655, N'Đường số2655', N'Phường 2655', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2656, N'Đường số2656', N'Phường 2656', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2657, N'Đường số2657', N'Phường 2657', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2658, N'Đường số2658', N'Phường 2658', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2659, N'Đường số2659', N'Phường 2659', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2660, N'Đường số2660', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2661, N'Đường số2661', N'Phường 2661', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2662, N'Đường số2662', N'Phường 2662', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2663, N'Đường số2663', N'Phường 2663', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2664, N'Đường số2664', N'Phường 2664', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2665, N'Đường số2665', N'Phường 2665', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2666, N'Đường số2666', N'Phường 2666', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2667, N'Đường số2667', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2668, N'Đường số2668', N'Phường 2668', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2669, N'Đường số2669', N'Phường 2669', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2670, N'Đường số2670', N'Phường 2670', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2671, N'Đường số2671', N'Phường 2671', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2672, N'Đường số2672', N'Phường 2672', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2673, N'Đường số2673', N'Phường 2673', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2674, N'Đường số2674', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2675, N'Đường số2675', N'Phường 2675', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2676, N'Đường số2676', N'Phường 2676', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2677, N'Đường số2677', N'Phường 2677', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2678, N'Đường số2678', N'Phường 2678', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2679, N'Đường số2679', N'Phường 2679', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2680, N'Đường số2680', N'Phường 2680', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2681, N'Đường số2681', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2682, N'Đường số2682', N'Phường 2682', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2683, N'Đường số2683', N'Phường 2683', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2684, N'Đường số2684', N'Phường 2684', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2685, N'Đường số2685', N'Phường 2685', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2686, N'Đường số2686', N'Phường 2686', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2687, N'Đường số2687', N'Phường 2687', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2688, N'Đường số2688', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2689, N'Đường số2689', N'Phường 2689', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2690, N'Đường số2690', N'Phường 2690', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2691, N'Đường số2691', N'Phường 2691', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2692, N'Đường số2692', N'Phường 2692', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2693, N'Đường số2693', N'Phường 2693', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2694, N'Đường số2694', N'Phường 2694', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2695, N'Đường số2695', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2696, N'Đường số2696', N'Phường 2696', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2697, N'Đường số2697', N'Phường 2697', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2698, N'Đường số2698', N'Phường 2698', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2699, N'Đường số2699', N'Phường 2699', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2700, N'Đường số2700', N'Phường 2700', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2701, N'Đường số2701', N'Phường 2701', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2702, N'Đường số2702', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2703, N'Đường số2703', N'Phường 2703', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2704, N'Đường số2704', N'Phường 2704', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2705, N'Đường số2705', N'Phường 2705', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2706, N'Đường số2706', N'Phường 2706', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2707, N'Đường số2707', N'Phường 2707', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2708, N'Đường số2708', N'Phường 2708', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2709, N'Đường số2709', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2710, N'Đường số2710', N'Phường 2710', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2711, N'Đường số2711', N'Phường 2711', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2712, N'Đường số2712', N'Phường 2712', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2713, N'Đường số2713', N'Phường 2713', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2714, N'Đường số2714', N'Phường 2714', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2715, N'Đường số2715', N'Phường 2715', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2716, N'Đường số2716', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2717, N'Đường số2717', N'Phường 2717', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2718, N'Đường số2718', N'Phường 2718', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2719, N'Đường số2719', N'Phường 2719', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2720, N'Đường số2720', N'Phường 2720', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2721, N'Đường số2721', N'Phường 2721', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2722, N'Đường số2722', N'Phường 2722', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2723, N'Đường số2723', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2724, N'Đường số2724', N'Phường 2724', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2725, N'Đường số2725', N'Phường 2725', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2726, N'Đường số2726', N'Phường 2726', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2727, N'Đường số2727', N'Phường 2727', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2728, N'Đường số2728', N'Phường 2728', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2729, N'Đường số2729', N'Phường 2729', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2730, N'Đường số2730', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2731, N'Đường số2731', N'Phường 2731', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2732, N'Đường số2732', N'Phường 2732', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2733, N'Đường số2733', N'Phường 2733', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2734, N'Đường số2734', N'Phường 2734', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2735, N'Đường số2735', N'Phường 2735', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2736, N'Đường số2736', N'Phường 2736', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2737, N'Đường số2737', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2738, N'Đường số2738', N'Phường 2738', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2739, N'Đường số2739', N'Phường 2739', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2740, N'Đường số2740', N'Phường 2740', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2741, N'Đường số2741', N'Phường 2741', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2742, N'Đường số2742', N'Phường 2742', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2743, N'Đường số2743', N'Phường 2743', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2744, N'Đường số2744', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2745, N'Đường số2745', N'Phường 2745', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2746, N'Đường số2746', N'Phường 2746', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2747, N'Đường số2747', N'Phường 2747', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2748, N'Đường số2748', N'Phường 2748', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2749, N'Đường số2749', N'Phường 2749', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2750, N'Đường số2750', N'Phường 2750', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2751, N'Đường số2751', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2752, N'Đường số2752', N'Phường 2752', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2753, N'Đường số2753', N'Phường 2753', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2754, N'Đường số2754', N'Phường 2754', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2755, N'Đường số2755', N'Phường 2755', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2756, N'Đường số2756', N'Phường 2756', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2757, N'Đường số2757', N'Phường 2757', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2758, N'Đường số2758', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2759, N'Đường số2759', N'Phường 2759', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2760, N'Đường số2760', N'Phường 2760', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2761, N'Đường số2761', N'Phường 2761', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2762, N'Đường số2762', N'Phường 2762', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2763, N'Đường số2763', N'Phường 2763', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2764, N'Đường số2764', N'Phường 2764', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2765, N'Đường số2765', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2766, N'Đường số2766', N'Phường 2766', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2767, N'Đường số2767', N'Phường 2767', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2768, N'Đường số2768', N'Phường 2768', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2769, N'Đường số2769', N'Phường 2769', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2770, N'Đường số2770', N'Phường 2770', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2771, N'Đường số2771', N'Phường 2771', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2772, N'Đường số2772', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2773, N'Đường số2773', N'Phường 2773', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2774, N'Đường số2774', N'Phường 2774', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2775, N'Đường số2775', N'Phường 2775', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2776, N'Đường số2776', N'Phường 2776', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2777, N'Đường số2777', N'Phường 2777', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2778, N'Đường số2778', N'Phường 2778', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2779, N'Đường số2779', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2780, N'Đường số2780', N'Phường 2780', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2781, N'Đường số2781', N'Phường 2781', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2782, N'Đường số2782', N'Phường 2782', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2783, N'Đường số2783', N'Phường 2783', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2784, N'Đường số2784', N'Phường 2784', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2785, N'Đường số2785', N'Phường 2785', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2786, N'Đường số2786', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2787, N'Đường số2787', N'Phường 2787', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2788, N'Đường số2788', N'Phường 2788', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2789, N'Đường số2789', N'Phường 2789', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2790, N'Đường số2790', N'Phường 2790', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2791, N'Đường số2791', N'Phường 2791', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2792, N'Đường số2792', N'Phường 2792', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2793, N'Đường số2793', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2794, N'Đường số2794', N'Phường 2794', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2795, N'Đường số2795', N'Phường 2795', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2796, N'Đường số2796', N'Phường 2796', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2797, N'Đường số2797', N'Phường 2797', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2798, N'Đường số2798', N'Phường 2798', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2799, N'Đường số2799', N'Phường 2799', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2800, N'Đường số2800', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2801, N'Đường số2801', N'Phường 2801', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2802, N'Đường số2802', N'Phường 2802', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2803, N'Đường số2803', N'Phường 2803', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2804, N'Đường số2804', N'Phường 2804', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2805, N'Đường số2805', N'Phường 2805', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2806, N'Đường số2806', N'Phường 2806', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2807, N'Đường số2807', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2808, N'Đường số2808', N'Phường 2808', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2809, N'Đường số2809', N'Phường 2809', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2810, N'Đường số2810', N'Phường 2810', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2811, N'Đường số2811', N'Phường 2811', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2812, N'Đường số2812', N'Phường 2812', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2813, N'Đường số2813', N'Phường 2813', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2814, N'Đường số2814', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2815, N'Đường số2815', N'Phường 2815', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2816, N'Đường số2816', N'Phường 2816', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2817, N'Đường số2817', N'Phường 2817', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2818, N'Đường số2818', N'Phường 2818', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2819, N'Đường số2819', N'Phường 2819', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2820, N'Đường số2820', N'Phường 2820', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2821, N'Đường số2821', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2822, N'Đường số2822', N'Phường 2822', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2823, N'Đường số2823', N'Phường 2823', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2824, N'Đường số2824', N'Phường 2824', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2825, N'Đường số2825', N'Phường 2825', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2826, N'Đường số2826', N'Phường 2826', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2827, N'Đường số2827', N'Phường 2827', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2828, N'Đường số2828', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2829, N'Đường số2829', N'Phường 2829', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2830, N'Đường số2830', N'Phường 2830', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2831, N'Đường số2831', N'Phường 2831', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2832, N'Đường số2832', N'Phường 2832', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2833, N'Đường số2833', N'Phường 2833', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2834, N'Đường số2834', N'Phường 2834', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2835, N'Đường số2835', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2836, N'Đường số2836', N'Phường 2836', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2837, N'Đường số2837', N'Phường 2837', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2838, N'Đường số2838', N'Phường 2838', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2839, N'Đường số2839', N'Phường 2839', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2840, N'Đường số2840', N'Phường 2840', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2841, N'Đường số2841', N'Phường 2841', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2842, N'Đường số2842', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2843, N'Đường số2843', N'Phường 2843', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2844, N'Đường số2844', N'Phường 2844', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2845, N'Đường số2845', N'Phường 2845', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2846, N'Đường số2846', N'Phường 2846', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2847, N'Đường số2847', N'Phường 2847', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2848, N'Đường số2848', N'Phường 2848', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2849, N'Đường số2849', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2850, N'Đường số2850', N'Phường 2850', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2851, N'Đường số2851', N'Phường 2851', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2852, N'Đường số2852', N'Phường 2852', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2853, N'Đường số2853', N'Phường 2853', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2854, N'Đường số2854', N'Phường 2854', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2855, N'Đường số2855', N'Phường 2855', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2856, N'Đường số2856', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2857, N'Đường số2857', N'Phường 2857', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2858, N'Đường số2858', N'Phường 2858', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2859, N'Đường số2859', N'Phường 2859', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2860, N'Đường số2860', N'Phường 2860', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2861, N'Đường số2861', N'Phường 2861', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2862, N'Đường số2862', N'Phường 2862', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2863, N'Đường số2863', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2864, N'Đường số2864', N'Phường 2864', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2865, N'Đường số2865', N'Phường 2865', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2866, N'Đường số2866', N'Phường 2866', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2867, N'Đường số2867', N'Phường 2867', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2868, N'Đường số2868', N'Phường 2868', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2869, N'Đường số2869', N'Phường 2869', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2870, N'Đường số2870', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2871, N'Đường số2871', N'Phường 2871', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2872, N'Đường số2872', N'Phường 2872', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2873, N'Đường số2873', N'Phường 2873', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2874, N'Đường số2874', N'Phường 2874', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2875, N'Đường số2875', N'Phường 2875', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2876, N'Đường số2876', N'Phường 2876', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2877, N'Đường số2877', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2878, N'Đường số2878', N'Phường 2878', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2879, N'Đường số2879', N'Phường 2879', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2880, N'Đường số2880', N'Phường 2880', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2881, N'Đường số2881', N'Phường 2881', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2882, N'Đường số2882', N'Phường 2882', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2883, N'Đường số2883', N'Phường 2883', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2884, N'Đường số2884', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2885, N'Đường số2885', N'Phường 2885', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2886, N'Đường số2886', N'Phường 2886', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2887, N'Đường số2887', N'Phường 2887', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2888, N'Đường số2888', N'Phường 2888', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2889, N'Đường số2889', N'Phường 2889', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2890, N'Đường số2890', N'Phường 2890', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2891, N'Đường số2891', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2892, N'Đường số2892', N'Phường 2892', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2893, N'Đường số2893', N'Phường 2893', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2894, N'Đường số2894', N'Phường 2894', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2895, N'Đường số2895', N'Phường 2895', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2896, N'Đường số2896', N'Phường 2896', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2897, N'Đường số2897', N'Phường 2897', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2898, N'Đường số2898', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2899, N'Đường số2899', N'Phường 2899', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2900, N'Đường số2900', N'Phường 2900', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2901, N'Đường số2901', N'Phường 2901', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2902, N'Đường số2902', N'Phường 2902', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2903, N'Đường số2903', N'Phường 2903', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2904, N'Đường số2904', N'Phường 2904', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2905, N'Đường số2905', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2906, N'Đường số2906', N'Phường 2906', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2907, N'Đường số2907', N'Phường 2907', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2908, N'Đường số2908', N'Phường 2908', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2909, N'Đường số2909', N'Phường 2909', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2910, N'Đường số2910', N'Phường 2910', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2911, N'Đường số2911', N'Phường 2911', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2912, N'Đường số2912', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2913, N'Đường số2913', N'Phường 2913', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2914, N'Đường số2914', N'Phường 2914', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2915, N'Đường số2915', N'Phường 2915', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2916, N'Đường số2916', N'Phường 2916', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2917, N'Đường số2917', N'Phường 2917', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2918, N'Đường số2918', N'Phường 2918', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2919, N'Đường số2919', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2920, N'Đường số2920', N'Phường 2920', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2921, N'Đường số2921', N'Phường 2921', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2922, N'Đường số2922', N'Phường 2922', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2923, N'Đường số2923', N'Phường 2923', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2924, N'Đường số2924', N'Phường 2924', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2925, N'Đường số2925', N'Phường 2925', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2926, N'Đường số2926', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2927, N'Đường số2927', N'Phường 2927', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2928, N'Đường số2928', N'Phường 2928', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2929, N'Đường số2929', N'Phường 2929', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2930, N'Đường số2930', N'Phường 2930', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2931, N'Đường số2931', N'Phường 2931', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2932, N'Đường số2932', N'Phường 2932', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2933, N'Đường số2933', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2934, N'Đường số2934', N'Phường 2934', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2935, N'Đường số2935', N'Phường 2935', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2936, N'Đường số2936', N'Phường 2936', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2937, N'Đường số2937', N'Phường 2937', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2938, N'Đường số2938', N'Phường 2938', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2939, N'Đường số2939', N'Phường 2939', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2940, N'Đường số2940', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2941, N'Đường số2941', N'Phường 2941', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2942, N'Đường số2942', N'Phường 2942', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2943, N'Đường số2943', N'Phường 2943', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2944, N'Đường số2944', N'Phường 2944', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2945, N'Đường số2945', N'Phường 2945', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2946, N'Đường số2946', N'Phường 2946', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2947, N'Đường số2947', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2948, N'Đường số2948', N'Phường 2948', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2949, N'Đường số2949', N'Phường 2949', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2950, N'Đường số2950', N'Phường 2950', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2951, N'Đường số2951', N'Phường 2951', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2952, N'Đường số2952', N'Phường 2952', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2953, N'Đường số2953', N'Phường 2953', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2954, N'Đường số2954', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2955, N'Đường số2955', N'Phường 2955', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2956, N'Đường số2956', N'Phường 2956', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2957, N'Đường số2957', N'Phường 2957', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2958, N'Đường số2958', N'Phường 2958', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2959, N'Đường số2959', N'Phường 2959', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2960, N'Đường số2960', N'Phường 2960', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2961, N'Đường số2961', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2962, N'Đường số2962', N'Phường 2962', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2963, N'Đường số2963', N'Phường 2963', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2964, N'Đường số2964', N'Phường 2964', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2965, N'Đường số2965', N'Phường 2965', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2966, N'Đường số2966', N'Phường 2966', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2967, N'Đường số2967', N'Phường 2967', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2968, N'Đường số2968', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2969, N'Đường số2969', N'Phường 2969', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2970, N'Đường số2970', N'Phường 2970', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2971, N'Đường số2971', N'Phường 2971', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2972, N'Đường số2972', N'Phường 2972', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2973, N'Đường số2973', N'Phường 2973', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2974, N'Đường số2974', N'Phường 2974', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2975, N'Đường số2975', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2976, N'Đường số2976', N'Phường 2976', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2977, N'Đường số2977', N'Phường 2977', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2978, N'Đường số2978', N'Phường 2978', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2979, N'Đường số2979', N'Phường 2979', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2980, N'Đường số2980', N'Phường 2980', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2981, N'Đường số2981', N'Phường 2981', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2982, N'Đường số2982', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2983, N'Đường số2983', N'Phường 2983', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2984, N'Đường số2984', N'Phường 2984', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2985, N'Đường số2985', N'Phường 2985', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2986, N'Đường số2986', N'Phường 2986', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2987, N'Đường số2987', N'Phường 2987', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2988, N'Đường số2988', N'Phường 2988', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2989, N'Đường số2989', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2990, N'Đường số2990', N'Phường 2990', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2991, N'Đường số2991', N'Phường 2991', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2992, N'Đường số2992', N'Phường 2992', N'Huyện An Phú', N'Tỉnh An Giang' )
+INSERT INTO DIACHIKH
+VALUES
+( 2993, N'Đường số2993', N'Phường 2993', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2994, N'Đường số2994', N'Phường 2994', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+INSERT INTO DIACHIKH
+VALUES
+( 2995, N'Đường số2995', N'Phường 2995', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2996, N'Đường số2996', N'Phường 1', N'Quận Hoàn Kiếm', N'Hà Nội' )
+INSERT INTO DIACHIKH
+VALUES
+( 2997, N'Đường số2997', N'Phường 2997', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 2998, N'Đường số2998', N'Phường 2998', N'TP Sóc Trăng', N'Tỉnh Sóc Trăng' )
+INSERT INTO DIACHIKH
+VALUES
+( 2999, N'Đường số2999', N'Phường 2999', N'Quận Ninh Kiều', N'Cần Thơ' )
+INSERT INTO DIACHIKH
+VALUES
+( 3000, N'Đường số3000', N'Phường 3000', N'Huyện Ba Tri', N'Tỉnh Bến Tre' )
+
+
+
+
